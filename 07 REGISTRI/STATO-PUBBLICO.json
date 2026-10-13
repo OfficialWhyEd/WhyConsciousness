@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13T00:38:10.517013+00:00",
-  "public_source_records": 584,
-  "public_unique_source_files": 368,
+  "public_source_records": 721,
+  "public_unique_source_files": 505,
   "conversations": 192,
   "conversation_messages": 2138,
   "local_integral_source_records": 8521,
@@ -19,5 +19,7 @@
   "completeness": "edizione pubblica dei contenuti recuperati sul tema, corpus integrale locale; lacune documentate",
   "public_paper_files": 52,
   "public_diagram_files": 83,
-  "visibility_target": "PUBLIC"
+  "visibility_target": "PUBLIC",
+  "additional_transcript_sources": 137,
+  "additional_transcript_messages": 982
 }

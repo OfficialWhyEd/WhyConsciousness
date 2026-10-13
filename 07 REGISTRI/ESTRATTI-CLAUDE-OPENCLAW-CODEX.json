@@ -1,0 +1,1118 @@
+[
+  {
+    "source_id": 3069,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/3069_04f7d94e3c.md",
+    "messages": 6,
+    "roles": {
+      "user": 2,
+      "assistant": 4
+    }
+  },
+  {
+    "source_id": 3075,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/3075_8971a23436.md",
+    "messages": 2,
+    "roles": {
+      "assistant": 2
+    }
+  },
+  {
+    "source_id": 6343,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6343_b211890d26.md",
+    "messages": 17,
+    "roles": {
+      "user": 3,
+      "assistant": 14
+    }
+  },
+  {
+    "source_id": 6346,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6346_6187d401aa.md",
+    "messages": 5,
+    "roles": {
+      "assistant": 5
+    }
+  },
+  {
+    "source_id": 6348,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6348_176cfe7667.md",
+    "messages": 4,
+    "roles": {
+      "assistant": 4
+    }
+  },
+  {
+    "source_id": 6349,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6349_58a115a09b.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 6432,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6432_08bd5ba937.md",
+    "messages": 41,
+    "roles": {
+      "assistant": 37,
+      "user": 4
+    }
+  },
+  {
+    "source_id": 6504,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6504_7a021a5c96.md",
+    "messages": 6,
+    "roles": {
+      "assistant": 5,
+      "user": 1
+    }
+  },
+  {
+    "source_id": 6505,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6505_a50c9cfadf.md",
+    "messages": 1,
+    "roles": {
+      "user": 1
+    }
+  },
+  {
+    "source_id": 6694,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6694_dd6bd61f60.md",
+    "messages": 5,
+    "roles": {
+      "assistant": 5
+    }
+  },
+  {
+    "source_id": 6707,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6707_e5b41a1f5b.md",
+    "messages": 17,
+    "roles": {
+      "assistant": 16,
+      "user": 1
+    }
+  },
+  {
+    "source_id": 6709,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6709_4224ef8ec4.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 6710,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6710_a9346697d6.md",
+    "messages": 4,
+    "roles": {
+      "assistant": 4
+    }
+  },
+  {
+    "source_id": 6732,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6732_1877ba1491.md",
+    "messages": 2,
+    "roles": {
+      "assistant": 2
+    }
+  },
+  {
+    "source_id": 6733,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6733_d9f2efc608.md",
+    "messages": 85,
+    "roles": {
+      "user": 10,
+      "assistant": 75
+    }
+  },
+  {
+    "source_id": 6736,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6736_2468d74b51.md",
+    "messages": 4,
+    "roles": {
+      "assistant": 4
+    }
+  },
+  {
+    "source_id": 6740,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6740_e3f3f87d45.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 6741,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6741_f98d0347fe.md",
+    "messages": 12,
+    "roles": {
+      "assistant": 12
+    }
+  },
+  {
+    "source_id": 6745,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6745_04395d6461.md",
+    "messages": 2,
+    "roles": {
+      "assistant": 2
+    }
+  },
+  {
+    "source_id": 6750,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6750_80b8060161.md",
+    "messages": 2,
+    "roles": {
+      "user": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 6753,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6753_7c586c497d.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 6771,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6771_4e08e3d05d.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 6936,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6936_3d2a400161.md",
+    "messages": 2,
+    "roles": {
+      "user": 2
+    }
+  },
+  {
+    "source_id": 6940,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6940_7a0dd49292.md",
+    "messages": 1,
+    "roles": {
+      "user": 1
+    }
+  },
+  {
+    "source_id": 6952,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6952_f51d3dc882.md",
+    "messages": 1,
+    "roles": {
+      "user": 1
+    }
+  },
+  {
+    "source_id": 6955,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6955_215c4f376c.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 6957,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6957_0f6e6b1668.md",
+    "messages": 3,
+    "roles": {
+      "user": 2,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 6964,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6964_140720dfc6.md",
+    "messages": 1,
+    "roles": {
+      "user": 1
+    }
+  },
+  {
+    "source_id": 6970,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6970_795e7d9ea9.md",
+    "messages": 3,
+    "roles": {
+      "assistant": 2,
+      "user": 1
+    }
+  },
+  {
+    "source_id": 6983,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6983_ba0c40897e.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 6984,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6984_5245019c65.md",
+    "messages": 5,
+    "roles": {
+      "assistant": 4,
+      "user": 1
+    }
+  },
+  {
+    "source_id": 6997,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6997_5b9e8b8cfd.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7095,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7095_96c244b1e4.md",
+    "messages": 4,
+    "roles": {
+      "oc_assistant": 3,
+      "oc_user": 1
+    }
+  },
+  {
+    "source_id": 7097,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7097_cbcc1d6588.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7099,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7099_9594ad64f5.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7100,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7100_e192235839.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7103,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7103_8ee61f3e32.md",
+    "messages": 2,
+    "roles": {
+      "oc_assistant": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7105,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7105_c4407bfadc.md",
+    "messages": 8,
+    "roles": {
+      "oc_assistant": 7,
+      "oc_user": 1
+    }
+  },
+  {
+    "source_id": 7109,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7109_fd6de6ed08.md",
+    "messages": 2,
+    "roles": {
+      "oc_assistant": 2
+    }
+  },
+  {
+    "source_id": 7111,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7111_a62a15ecfd.md",
+    "messages": 2,
+    "roles": {
+      "oc_assistant": 2
+    }
+  },
+  {
+    "source_id": 7112,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7112_f56deb07b9.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7113,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7113_a20f2a72b2.md",
+    "messages": 2,
+    "roles": {
+      "oc_assistant": 2
+    }
+  },
+  {
+    "source_id": 7115,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7115_ed0b4864af.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7116,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7116_532b8afdfe.md",
+    "messages": 5,
+    "roles": {
+      "oc_assistant": 5
+    }
+  },
+  {
+    "source_id": 7117,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7117_fe73a89310.md",
+    "messages": 1,
+    "roles": {
+      "oc_user": 1
+    }
+  },
+  {
+    "source_id": 7118,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7118_8297e087d1.md",
+    "messages": 2,
+    "roles": {
+      "oc_assistant": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7119,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7119_9d7a0dc982.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7120,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7120_d4073eef5b.md",
+    "messages": 5,
+    "roles": {
+      "oc_assistant": 3,
+      "oc_user": 2
+    }
+  },
+  {
+    "source_id": 7122,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7122_c374a9e9e7.md",
+    "messages": 2,
+    "roles": {
+      "oc_assistant": 2
+    }
+  },
+  {
+    "source_id": 7123,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7123_449d6d36aa.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7127,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7127_f19f94c4c3.md",
+    "messages": 12,
+    "roles": {
+      "oc_assistant": 11,
+      "oc_user": 1
+    }
+  },
+  {
+    "source_id": 7128,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7128_cb19bf6969.md",
+    "messages": 2,
+    "roles": {
+      "oc_assistant": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7130,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7130_c0d77ee1b4.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7131,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7131_b41da83a1e.md",
+    "messages": 8,
+    "roles": {
+      "oc_assistant": 4,
+      "assistant": 4
+    }
+  },
+  {
+    "source_id": 7135,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7135_1b5e49fd95.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7136,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7136_7f29756090.md",
+    "messages": 12,
+    "roles": {
+      "oc_assistant": 11,
+      "oc_user": 1
+    }
+  },
+  {
+    "source_id": 7138,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7138_8080d52f45.md",
+    "messages": 3,
+    "roles": {
+      "oc_assistant": 2,
+      "oc_user": 1
+    }
+  },
+  {
+    "source_id": 7139,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7139_a63d1ef028.md",
+    "messages": 10,
+    "roles": {
+      "oc_assistant": 6,
+      "oc_user": 4
+    }
+  },
+  {
+    "source_id": 7140,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7140_ee7d48ad71.md",
+    "messages": 7,
+    "roles": {
+      "oc_user": 4,
+      "oc_assistant": 3
+    }
+  },
+  {
+    "source_id": 7143,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7143_ba5c37bacb.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7144,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7144_c4b3872575.md",
+    "messages": 16,
+    "roles": {
+      "oc_assistant": 14,
+      "oc_user": 2
+    }
+  },
+  {
+    "source_id": 7147,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7147_a18ab9cd74.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7149,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7149_60a3dd6534.md",
+    "messages": 3,
+    "roles": {
+      "oc_assistant": 2,
+      "oc_user": 1
+    }
+  },
+  {
+    "source_id": 7150,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7150_07feefb6ff.md",
+    "messages": 6,
+    "roles": {
+      "oc_assistant": 5,
+      "oc_user": 1
+    }
+  },
+  {
+    "source_id": 7152,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7152_f49a96a535.md",
+    "messages": 2,
+    "roles": {
+      "oc_assistant": 2
+    }
+  },
+  {
+    "source_id": 7153,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7153_3e77f96004.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7154,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7154_4f54e6338e.md",
+    "messages": 2,
+    "roles": {
+      "oc_assistant": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7157,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7157_39ede3f493.md",
+    "messages": 16,
+    "roles": {
+      "oc_assistant": 8,
+      "assistant": 8
+    }
+  },
+  {
+    "source_id": 7158,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7158_17d38c328e.md",
+    "messages": 2,
+    "roles": {
+      "oc_assistant": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7159,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7159_c5223bfd44.md",
+    "messages": 4,
+    "roles": {
+      "oc_assistant": 4
+    }
+  },
+  {
+    "source_id": 7162,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7162_24293dd5ec.md",
+    "messages": 30,
+    "roles": {
+      "oc_user": 15,
+      "oc_assistant": 15
+    }
+  },
+  {
+    "source_id": 7345,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7345_666ad9adde.md",
+    "messages": 3,
+    "roles": {
+      "oc_assistant": 3
+    }
+  },
+  {
+    "source_id": 7347,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7347_f01bdbeb4c.md",
+    "messages": 4,
+    "roles": {
+      "oc_user": 1,
+      "oc_assistant": 1,
+      "user": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7349,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7349_b64284b9bf.md",
+    "messages": 2,
+    "roles": {
+      "oc_user": 1,
+      "user": 1
+    }
+  },
+  {
+    "source_id": 7350,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7350_4c50b2a93d.md",
+    "messages": 4,
+    "roles": {
+      "oc_user": 1,
+      "oc_assistant": 1,
+      "user": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7358,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7358_d34e37f9cc.md",
+    "messages": 7,
+    "roles": {
+      "oc_user": 1,
+      "oc_assistant": 6
+    }
+  },
+  {
+    "source_id": 7359,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7359_1be7028989.md",
+    "messages": 6,
+    "roles": {
+      "oc_user": 1,
+      "oc_assistant": 2,
+      "user": 1,
+      "assistant": 2
+    }
+  },
+  {
+    "source_id": 7363,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7363_b785866543.md",
+    "messages": 2,
+    "roles": {
+      "oc_user": 1,
+      "user": 1
+    }
+  },
+  {
+    "source_id": 7364,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7364_a96cab243a.md",
+    "messages": 11,
+    "roles": {
+      "oc_user": 2,
+      "oc_assistant": 9
+    }
+  },
+  {
+    "source_id": 7367,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7367_11ed52669c.md",
+    "messages": 4,
+    "roles": {
+      "oc_user": 1,
+      "oc_assistant": 1,
+      "user": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7370,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7370_edfe264fac.md",
+    "messages": 4,
+    "roles": {
+      "oc_user": 1,
+      "oc_assistant": 1,
+      "user": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7376,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7376_6d645e9773.md",
+    "messages": 35,
+    "roles": {
+      "oc_user": 4,
+      "oc_assistant": 31
+    }
+  },
+  {
+    "source_id": 7377,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7377_e6915ee5bf.md",
+    "messages": 4,
+    "roles": {
+      "oc_user": 1,
+      "oc_assistant": 1,
+      "user": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7382,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7382_e6e06f55a1.md",
+    "messages": 6,
+    "roles": {
+      "oc_user": 1,
+      "oc_assistant": 2,
+      "user": 1,
+      "assistant": 2
+    }
+  },
+  {
+    "source_id": 7399,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7399_f78f803034.md",
+    "messages": 18,
+    "roles": {
+      "oc_user": 5,
+      "oc_assistant": 4,
+      "user": 5,
+      "assistant": 4
+    }
+  },
+  {
+    "source_id": 7400,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7400_3c8e019049.md",
+    "messages": 28,
+    "roles": {
+      "oc_user": 4,
+      "oc_assistant": 10,
+      "user": 4,
+      "assistant": 10
+    }
+  },
+  {
+    "source_id": 7402,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7402_e91b0aa0fb.md",
+    "messages": 6,
+    "roles": {
+      "oc_assistant": 3,
+      "assistant": 3
+    }
+  },
+  {
+    "source_id": 7403,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7403_5c06988142.md",
+    "messages": 124,
+    "roles": {
+      "oc_assistant": 43,
+      "oc_user": 19,
+      "assistant": 43,
+      "user": 19
+    }
+  },
+  {
+    "source_id": 7405,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7405_37dc41f630.md",
+    "messages": 26,
+    "roles": {
+      "oc_assistant": 21,
+      "oc_user": 5
+    }
+  },
+  {
+    "source_id": 7406,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7406_96457e82df.md",
+    "messages": 3,
+    "roles": {
+      "oc_user": 2,
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7407,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7407_93ab2eb36d.md",
+    "messages": 86,
+    "roles": {
+      "oc_user": 9,
+      "oc_assistant": 34,
+      "user": 9,
+      "assistant": 34
+    }
+  },
+  {
+    "source_id": 7408,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7408_41dd4d1231.md",
+    "messages": 23,
+    "roles": {
+      "oc_assistant": 21,
+      "oc_user": 2
+    }
+  },
+  {
+    "source_id": 7409,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7409_fa56fae9c2.md",
+    "messages": 7,
+    "roles": {
+      "oc_assistant": 7
+    }
+  },
+  {
+    "source_id": 7411,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7411_d4ea8e8d70.md",
+    "messages": 2,
+    "roles": {
+      "oc_assistant": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7413,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7413_6d6e0b48b4.md",
+    "messages": 2,
+    "roles": {
+      "oc_assistant": 2
+    }
+  },
+  {
+    "source_id": 7415,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7415_ea76468e0e.md",
+    "messages": 1,
+    "roles": {
+      "oc_assistant": 1
+    }
+  },
+  {
+    "source_id": 7417,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7417_ae5138144f.md",
+    "messages": 4,
+    "roles": {
+      "oc_user": 1,
+      "oc_assistant": 1,
+      "user": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7418,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7418_16ed8b9e1f.md",
+    "messages": 2,
+    "roles": {
+      "oc_user": 1,
+      "user": 1
+    }
+  },
+  {
+    "source_id": 7419,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7419_3ed2a8c72f.md",
+    "messages": 2,
+    "roles": {
+      "oc_user": 1,
+      "user": 1
+    }
+  },
+  {
+    "source_id": 7422,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7422_8556db103c.md",
+    "messages": 2,
+    "roles": {
+      "oc_user": 1,
+      "user": 1
+    }
+  },
+  {
+    "source_id": 7423,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7423_6e3629dcd9.md",
+    "messages": 4,
+    "roles": {
+      "oc_user": 1,
+      "oc_assistant": 1,
+      "user": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7424,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7424_1f81294a49.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 7425,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7425_3d4aadf411.md",
+    "messages": 2,
+    "roles": {
+      "oc_user": 1,
+      "user": 1
+    }
+  },
+  {
+    "source_id": 7427,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7427_e97b6d9fcb.md",
+    "messages": 2,
+    "roles": {
+      "oc_user": 1,
+      "user": 1
+    }
+  },
+  {
+    "source_id": 7429,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7429_b16f1a5b3d.md",
+    "messages": 4,
+    "roles": {
+      "oc_user": 1,
+      "oc_assistant": 1,
+      "user": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 8456,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/8456_4bba3f16de.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 8460,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/8460_30934c130a.md",
+    "messages": 6,
+    "roles": {
+      "user": 1,
+      "assistant": 5
+    }
+  },
+  {
+    "source_id": 8465,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/8465_3087eb2f36.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 8480,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/8480_81e63f0750.md",
+    "messages": 3,
+    "roles": {
+      "assistant": 3
+    }
+  },
+  {
+    "source_id": 8482,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/8482_61e94e07a0.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 8493,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/8493_360bde142b.md",
+    "messages": 2,
+    "roles": {
+      "user": 1,
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 42523,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/42523_2e3f9c6efe.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "source_id": 42524,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/42524_83df8b563c.md",
+    "messages": 5,
+    "roles": {
+      "assistant": 4,
+      "user": 1
+    }
+  },
+  {
+    "source_id": 42537,
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/42537_2c57012022.md",
+    "messages": 1,
+    "roles": {
+      "assistant": 1
+    }
+  },
+  {
+    "session": "1d3e485f-830c-46d6-92ae-89ec5e98b60a",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/1d3e485f-830c-46d6-92ae-89ec5e98b60a_b6b59b4238.md",
+    "messages": 1
+  },
+  {
+    "session": "224f1068-bc43-43fe-bfc7-6dc338a102e9",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/224f1068-bc43-43fe-bfc7-6dc338a102e9_bc6b5a6bb0.md",
+    "messages": 6
+  },
+  {
+    "session": "3246758e-3c24-4c8e-9c72-4a73b38cb1ab",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/3246758e-3c24-4c8e-9c72-4a73b38cb1ab_fc66fb5139.md",
+    "messages": 3
+  },
+  {
+    "session": "8959f4af-25ba-43eb-b4e4-34ec2a1ba220",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/8959f4af-25ba-43eb-b4e4-34ec2a1ba220_1dd283e36c.md",
+    "messages": 1
+  },
+  {
+    "session": "9132b54f-d824-41e2-9c7c-2f4414295843",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/9132b54f-d824-41e2-9c7c-2f4414295843_7ab5289d9f.md",
+    "messages": 1
+  },
+  {
+    "session": "ac6a4f39-1169-4364-8cb2-576d5a42b749",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/ac6a4f39-1169-4364-8cb2-576d5a42b749_e35c13958d.md",
+    "messages": 12
+  },
+  {
+    "session": "agent-a10a4765803495611",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/agent-a10a4765803495611_a3ec80c86f.md",
+    "messages": 1
+  },
+  {
+    "session": "agent-a6ed2b3cedbd7e43a",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/agent-a6ed2b3cedbd7e43a_49b2d84393.md",
+    "messages": 1
+  },
+  {
+    "session": "agent-a750ac548c54b9931",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/agent-a750ac548c54b9931_b97ca809f8.md",
+    "messages": 1
+  },
+  {
+    "session": "f0166839-f99f-4dcf-8104-5d2eef167716",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/f0166839-f99f-4dcf-8104-5d2eef167716_aef33fd35e.md",
+    "messages": 3
+  },
+  {
+    "session": "rollout-2026-09-22T23-51-40-01a0cb1a-6954-74e1-8635-7da859d7d9f1",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-09-22T23-51-40-01a0cb1a-6954-74e1-8635-7da859d7d9f1_8fe124e34a.md",
+    "messages": 2
+  },
+  {
+    "session": "rollout-2026-09-28T12-53-06-01a0e7a5-a0be-7940-ac0d-cb0e34b5b389",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-09-28T12-53-06-01a0e7a5-a0be-7940-ac0d-cb0e34b5b389_cedeedf019.md",
+    "messages": 6
+  },
+  {
+    "session": "rollout-2026-09-29T00-12-21-01a0ea13-7e84-7212-b78a-e389029f465c",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-09-29T00-12-21-01a0ea13-7e84-7212-b78a-e389029f465c_1164b717d7.md",
+    "messages": 4
+  },
+  {
+    "session": "rollout-2026-09-29T15-16-51-01a0ed4f-97d6-7952-9c79-e17af3b132a4",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-09-29T15-16-51-01a0ed4f-97d6-7952-9c79-e17af3b132a4_721ad4c9ae.md",
+    "messages": 5
+  },
+  {
+    "session": "rollout-2026-09-30T01-38-18-01a0ef88-8b97-7e52-a52e-7aea3f52ed7b",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-09-30T01-38-18-01a0ef88-8b97-7e52-a52e-7aea3f52ed7b_e6df5a1d31.md",
+    "messages": 27
+  },
+  {
+    "session": "rollout-2026-10-02T00-10-05-01a0f984-8032-7b43-8c2a-6fd4fe8a4330",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-02T00-10-05-01a0f984-8032-7b43-8c2a-6fd4fe8a4330_b66e96ab59.md",
+    "messages": 1
+  },
+  {
+    "session": "rollout-2026-10-02T14-52-48-01a0fcac-a53f-7b43-be8b-7cf665e8220b",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-02T14-52-48-01a0fcac-a53f-7b43-be8b-7cf665e8220b_a8de44a5ff.md",
+    "messages": 7
+  },
+  {
+    "session": "rollout-2026-10-03T01-34-33-01a0fef8-2fe9-7ed1-840c-2c7055e8805d",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-03T01-34-33-01a0fef8-2fe9-7ed1-840c-2c7055e8805d_efcec1b140.md",
+    "messages": 1
+  },
+  {
+    "session": "rollout-2026-10-03T05-57-38-01a0ffe9-0e14-7881-b703-23379fdbf7da",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-03T05-57-38-01a0ffe9-0e14-7881-b703-23379fdbf7da_e851ce8fa6.md",
+    "messages": 1
+  },
+  {
+    "session": "rollout-2026-10-03T05-57-51-01a0ffe9-405b-7442-a325-934d0f3bc7ac",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-03T05-57-51-01a0ffe9-405b-7442-a325-934d0f3bc7ac_16bcd0f51d.md",
+    "messages": 1
+  },
+  {
+    "session": "rollout-2026-10-03T05-58-04-01a0ffe9-73f2-7a12-9ab1-219a8b60bf4d",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-03T05-58-04-01a0ffe9-73f2-7a12-9ab1-219a8b60bf4d_ff596872e0.md",
+    "messages": 1
+  },
+  {
+    "session": "rollout-2026-10-03T06-03-04-01a0ffee-04f2-7dd0-85c1-863cfa3a099f",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-03T06-03-04-01a0ffee-04f2-7dd0-85c1-863cfa3a099f_1f96fead30.md",
+    "messages": 1
+  },
+  {
+    "session": "rollout-2026-10-11T21-27-03-01a12c6e-d398-7c43-becf-675f08add47a",
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-11T21-27-03-01a12c6e-d398-7c43-becf-675f08add47a_50066a9737.md",
+    "messages": 12
+  }
+]

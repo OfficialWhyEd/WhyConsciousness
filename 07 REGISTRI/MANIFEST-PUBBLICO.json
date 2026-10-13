@@ -6414,5 +6414,2440 @@
     "representation": "originale",
     "source_name": "1vRbkqyMtuZ4N_9dain8Bmu6jq5SC--GbNiMSq4-D7lk_revisione-1.json",
     "hash_scope": "hash della copia di ingresso dall archivio locale, poi hash della copia pubblicata"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/3069_04f7d94e3c.md",
+    "sha256": "04f7d94e3c5ba849b38477640fcb24580445e81325c550053043b9ec427a05ac",
+    "original_sha256": "c1d5b8bb6b44e1020cb8894d086b6a477de45348807ec8550e336668a0a7a271",
+    "bytes": 4704,
+    "source": "corpus locale, source_id 3069",
+    "source_id": 3069,
+    "text_record_ids": [
+      41719,
+      41720,
+      41727,
+      82312,
+      82313,
+      82320
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/3075_8971a23436.md",
+    "sha256": "8971a23436ee5114350b89bc11278379b34c41dc61db58bd55185d00f0859c27",
+    "original_sha256": "8971a23436ee5114350b89bc11278379b34c41dc61db58bd55185d00f0859c27",
+    "bytes": 5918,
+    "source": "corpus locale, source_id 3075",
+    "source_id": 3075,
+    "text_record_ids": [
+      42329,
+      82926
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6343_b211890d26.md",
+    "sha256": "b211890d260090d918357f7d480f0bfc05f76848df3feb71a3f1c1d12484227d",
+    "original_sha256": "171b9702ce78eaa453a808602e8c0963e3d5a422864ba4340160d7538b37d990",
+    "bytes": 13696,
+    "source": "corpus locale, source_id 6343",
+    "source_id": 6343,
+    "text_record_ids": [
+      50356,
+      50384,
+      50385,
+      50388,
+      50389,
+      50393,
+      50397,
+      50404,
+      50405,
+      50407,
+      50408,
+      50409,
+      50410,
+      50413,
+      50434,
+      50437,
+      50439
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6346_6187d401aa.md",
+    "sha256": "6187d401aaf7e142ad996a9c36301bac5f6cbea53e8a10eca3d144d2e77ddf21",
+    "original_sha256": "6187d401aaf7e142ad996a9c36301bac5f6cbea53e8a10eca3d144d2e77ddf21",
+    "bytes": 2889,
+    "source": "corpus locale, source_id 6346",
+    "source_id": 6346,
+    "text_record_ids": [
+      50824,
+      50834,
+      50886,
+      50980,
+      50982
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6348_176cfe7667.md",
+    "sha256": "176cfe76671cb9c74a45b4e3502676d7c410082f480d43d1f7c986b2f5f884ba",
+    "original_sha256": "176cfe76671cb9c74a45b4e3502676d7c410082f480d43d1f7c986b2f5f884ba",
+    "bytes": 4888,
+    "source": "corpus locale, source_id 6348",
+    "source_id": 6348,
+    "text_record_ids": [
+      51046,
+      51048,
+      51081,
+      51086
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6349_58a115a09b.md",
+    "sha256": "58a115a09b11990ab1ef0275f35240be79f831c9e10bcad8f2208286ead9936c",
+    "original_sha256": "58a115a09b11990ab1ef0275f35240be79f831c9e10bcad8f2208286ead9936c",
+    "bytes": 552,
+    "source": "corpus locale, source_id 6349",
+    "source_id": 6349,
+    "text_record_ids": [
+      51369
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6432_08bd5ba937.md",
+    "sha256": "08bd5ba9376c523188fbbcaae06ce08d5c254df1c1ed4916412133c4437cc85f",
+    "original_sha256": "08bd5ba9376c523188fbbcaae06ce08d5c254df1c1ed4916412133c4437cc85f",
+    "bytes": 18124,
+    "source": "corpus locale, source_id 6432",
+    "source_id": 6432,
+    "text_record_ids": [
+      54141,
+      54144,
+      54175,
+      54185,
+      54187,
+      54189,
+      54190,
+      54191,
+      54194,
+      54202,
+      54203,
+      54204,
+      54205,
+      54206,
+      54207,
+      54214,
+      54215,
+      54219,
+      54221,
+      54222,
+      54223,
+      54224,
+      54225,
+      54228,
+      54229,
+      54232,
+      54233,
+      54234,
+      54243,
+      54246,
+      54247,
+      54249,
+      54251,
+      54253,
+      54257,
+      54259,
+      54268,
+      54272,
+      54284,
+      54286,
+      54300
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6504_7a021a5c96.md",
+    "sha256": "7a021a5c96dd1ae033bdc0133d6ce7eff63fab046d29974bef0e8f8ba95efbbe",
+    "original_sha256": "dad4a550e53b859c20146245932305dde5974ca6702ed369d3b0ca1f6868b322",
+    "bytes": 14467,
+    "source": "corpus locale, source_id 6504",
+    "source_id": 6504,
+    "text_record_ids": [
+      54748,
+      54753,
+      54810,
+      54811,
+      54816,
+      54840
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6505_a50c9cfadf.md",
+    "sha256": "a50c9cfadfc0c54cb2b26d6718e6fc8005834533d6e318da631502523e51722c",
+    "original_sha256": "b3a861f52cb69bd191e98f1c1bd5028a04ea1b7df46108406c988e36c29062de",
+    "bytes": 9616,
+    "source": "corpus locale, source_id 6505",
+    "source_id": 6505,
+    "text_record_ids": [
+      54943
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6694_dd6bd61f60.md",
+    "sha256": "dd6bd61f601b99636c8f6513a62151762736fe9bb371c8c78a0e5a8305175605",
+    "original_sha256": "dd6bd61f601b99636c8f6513a62151762736fe9bb371c8c78a0e5a8305175605",
+    "bytes": 4855,
+    "source": "corpus locale, source_id 6694",
+    "source_id": 6694,
+    "text_record_ids": [
+      56040,
+      56092,
+      56102,
+      56134,
+      56144
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6707_e5b41a1f5b.md",
+    "sha256": "e5b41a1f5bbe0354eda590a4de61088826eb5d5808bb60f6f7add31d16056566",
+    "original_sha256": "e5b41a1f5bbe0354eda590a4de61088826eb5d5808bb60f6f7add31d16056566",
+    "bytes": 14091,
+    "source": "corpus locale, source_id 6707",
+    "source_id": 6707,
+    "text_record_ids": [
+      57027,
+      57030,
+      57034,
+      57037,
+      57057,
+      57059,
+      57106,
+      57111,
+      57113,
+      57117,
+      57118,
+      57121,
+      57124,
+      57131,
+      57133,
+      57145,
+      57152
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6709_4224ef8ec4.md",
+    "sha256": "4224ef8ec4bf81d33d110abd29d483acd58ffbbd19317d2282ad6a7c7c4b12b1",
+    "original_sha256": "4224ef8ec4bf81d33d110abd29d483acd58ffbbd19317d2282ad6a7c7c4b12b1",
+    "bytes": 1337,
+    "source": "corpus locale, source_id 6709",
+    "source_id": 6709,
+    "text_record_ids": [
+      57164
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6710_a9346697d6.md",
+    "sha256": "a9346697d6e3baadffcdb359f81792957ef9fc478716eab0bc35dcd3ada5faae",
+    "original_sha256": "a9346697d6e3baadffcdb359f81792957ef9fc478716eab0bc35dcd3ada5faae",
+    "bytes": 2833,
+    "source": "corpus locale, source_id 6710",
+    "source_id": 6710,
+    "text_record_ids": [
+      57194,
+      57206,
+      57343,
+      57351
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6732_1877ba1491.md",
+    "sha256": "1877ba14911d352fb707d8175ee084a6922ab3c3dbbbf513311661233cb07f04",
+    "original_sha256": "1877ba14911d352fb707d8175ee084a6922ab3c3dbbbf513311661233cb07f04",
+    "bytes": 1270,
+    "source": "corpus locale, source_id 6732",
+    "source_id": 6732,
+    "text_record_ids": [
+      58208,
+      58215
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6733_d9f2efc608.md",
+    "sha256": "d9f2efc608c4c48e3e4edd1d30b51aaf832cffa0db87e68a3fb6b1838affa486",
+    "original_sha256": "1cc46017bf48dcb73a7d4cc0aee6e06bd47e84237d2cb3f33f3b547735f11dd0",
+    "bytes": 52320,
+    "source": "corpus locale, source_id 6733",
+    "source_id": 6733,
+    "text_record_ids": [
+      58228,
+      58230,
+      58233,
+      58234,
+      58238,
+      58239,
+      58242,
+      58243,
+      58247,
+      58251,
+      58252,
+      58269,
+      58273,
+      58274,
+      58275,
+      58281,
+      58284,
+      58287,
+      58288,
+      58292,
+      58299,
+      58303,
+      58307,
+      58309,
+      58315,
+      58316,
+      58317,
+      58318,
+      58320,
+      58322,
+      58323,
+      58329,
+      58330,
+      58331,
+      58339,
+      58340,
+      58342,
+      58343,
+      58344,
+      58346,
+      58347,
+      58348,
+      58349,
+      58352,
+      58354,
+      58360,
+      58362,
+      58364,
+      58366,
+      58367,
+      58368,
+      58371,
+      58372,
+      58374,
+      58377,
+      58378,
+      58379,
+      58380,
+      58389,
+      58390,
+      58391,
+      58392,
+      58397,
+      58398,
+      58399,
+      58401,
+      58404,
+      58414,
+      58416,
+      58418,
+      58419,
+      58421,
+      58431,
+      58436,
+      58441,
+      58442,
+      58443,
+      58446,
+      58448,
+      58449,
+      58456,
+      58458,
+      58461,
+      58463,
+      58466
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6736_2468d74b51.md",
+    "sha256": "2468d74b51a6b1aea2f83129b935f7df138d49e3a89a3c36bcd67dcd41023f50",
+    "original_sha256": "24aa4191d08087679e74617fa1b79d0e3c15af0e81731cbca7eb9ead900fff20",
+    "bytes": 6709,
+    "source": "corpus locale, source_id 6736",
+    "source_id": 6736,
+    "text_record_ids": [
+      58655,
+      58656,
+      58660,
+      58666
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6740_e3f3f87d45.md",
+    "sha256": "e3f3f87d452b41f9a872a854c3c57108df8487a5f9fe3d9b25a3aacbbcec2672",
+    "original_sha256": "e3f3f87d452b41f9a872a854c3c57108df8487a5f9fe3d9b25a3aacbbcec2672",
+    "bytes": 2027,
+    "source": "corpus locale, source_id 6740",
+    "source_id": 6740,
+    "text_record_ids": [
+      58965
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6741_f98d0347fe.md",
+    "sha256": "f98d0347fe359ebcf84cf4d3ebd92dff477e68a9e6efbdd50f41e0fcd4bc43d6",
+    "original_sha256": "f98d0347fe359ebcf84cf4d3ebd92dff477e68a9e6efbdd50f41e0fcd4bc43d6",
+    "bytes": 10608,
+    "source": "corpus locale, source_id 6741",
+    "source_id": 6741,
+    "text_record_ids": [
+      58986,
+      58991,
+      59012,
+      59021,
+      59028,
+      59042,
+      59052,
+      59053,
+      59055,
+      59056,
+      59065,
+      59333
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6745_04395d6461.md",
+    "sha256": "04395d64615b304b9b357db92e57e97fce119fa0f8311b1e67c2b149c0515f7c",
+    "original_sha256": "04395d64615b304b9b357db92e57e97fce119fa0f8311b1e67c2b149c0515f7c",
+    "bytes": 2198,
+    "source": "corpus locale, source_id 6745",
+    "source_id": 6745,
+    "text_record_ids": [
+      59966,
+      59973
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6750_80b8060161.md",
+    "sha256": "80b80601617004f2789ac59a135a0f56a551f6312c8b5e4ae7be57fa0c900bfa",
+    "original_sha256": "4d50b8121a7dbb929e58ec34620a4ebe90a163b02fea13ee89c587af181cb9a2",
+    "bytes": 125388,
+    "source": "corpus locale, source_id 6750",
+    "source_id": 6750,
+    "text_record_ids": [
+      60045,
+      60112
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6753_7c586c497d.md",
+    "sha256": "7c586c497d43d47f40e104944056170d8ba47ade0cbc7e18e8d9de91f488857a",
+    "original_sha256": "7c586c497d43d47f40e104944056170d8ba47ade0cbc7e18e8d9de91f488857a",
+    "bytes": 832,
+    "source": "corpus locale, source_id 6753",
+    "source_id": 6753,
+    "text_record_ids": [
+      60600
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6771_4e08e3d05d.md",
+    "sha256": "4e08e3d05dfce576062aaeff55337b9c1883de379d54768eb6769a5f9beb0f7f",
+    "original_sha256": "4e08e3d05dfce576062aaeff55337b9c1883de379d54768eb6769a5f9beb0f7f",
+    "bytes": 615,
+    "source": "corpus locale, source_id 6771",
+    "source_id": 6771,
+    "text_record_ids": [
+      62547
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6936_3d2a400161.md",
+    "sha256": "3d2a400161486bc015e8a7323150507ca0849d1aac144c383c4e62ee59a079ed",
+    "original_sha256": "29e195246adee6c2e46e3a40521f4e1657bd3f37ae62d7079dc2d7411e9fa459",
+    "bytes": 30253,
+    "source": "corpus locale, source_id 6936",
+    "source_id": 6936,
+    "text_record_ids": [
+      64091,
+      64111
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6940_7a0dd49292.md",
+    "sha256": "7a0dd492920a3f0f7890e50494fe700854f63143c9ad797e917a42e3dc9e9a7c",
+    "original_sha256": "ebc499cecfc182d2328ff3d6eb909e1c944432fb144d49624d9c2aff0f49e169",
+    "bytes": 16910,
+    "source": "corpus locale, source_id 6940",
+    "source_id": 6940,
+    "text_record_ids": [
+      64316
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6952_f51d3dc882.md",
+    "sha256": "f51d3dc882aa3d4fb930160d5e9c359bfae6b9a72a8f669d3098ef16d39704ee",
+    "original_sha256": "b175644f37fcc4abc6e9eb795ee69659d4b472864a0b6f96035a917d64baa657",
+    "bytes": 5877,
+    "source": "corpus locale, source_id 6952",
+    "source_id": 6952,
+    "text_record_ids": [
+      65076
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6955_215c4f376c.md",
+    "sha256": "215c4f376cde608cc3537552cba60cdcf1f2916989a793a51b607e7acfdf9b19",
+    "original_sha256": "215c4f376cde608cc3537552cba60cdcf1f2916989a793a51b607e7acfdf9b19",
+    "bytes": 1997,
+    "source": "corpus locale, source_id 6955",
+    "source_id": 6955,
+    "text_record_ids": [
+      65279
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6957_0f6e6b1668.md",
+    "sha256": "0f6e6b166836475b7697ba947ba876a07084860172c52c20879de216d0f4e186",
+    "original_sha256": "457c31254d9a95eb64506c33df564a7eecc9616c9af131f632a03004dd41b492",
+    "bytes": 26904,
+    "source": "corpus locale, source_id 6957",
+    "source_id": 6957,
+    "text_record_ids": [
+      65390,
+      65450,
+      65490
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6964_140720dfc6.md",
+    "sha256": "140720dfc64ea92ae25d867949ace44dbace97b4865aeca6e82e9568eb344997",
+    "original_sha256": "140720dfc64ea92ae25d867949ace44dbace97b4865aeca6e82e9568eb344997",
+    "bytes": 48868,
+    "source": "corpus locale, source_id 6964",
+    "source_id": 6964,
+    "text_record_ids": [
+      65792
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6970_795e7d9ea9.md",
+    "sha256": "795e7d9ea93f2e9f8e3de4b8b938ce2e5bfcc03a694ccf9298e618b2e3defeed",
+    "original_sha256": "795e7d9ea93f2e9f8e3de4b8b938ce2e5bfcc03a694ccf9298e618b2e3defeed",
+    "bytes": 3598,
+    "source": "corpus locale, source_id 6970",
+    "source_id": 6970,
+    "text_record_ids": [
+      66158,
+      66159,
+      66162
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6983_ba0c40897e.md",
+    "sha256": "ba0c40897ea7bdc3cb845cf0afec8796e1002343f469b81572b6a87e59160a3b",
+    "original_sha256": "ba0c40897ea7bdc3cb845cf0afec8796e1002343f469b81572b6a87e59160a3b",
+    "bytes": 4003,
+    "source": "corpus locale, source_id 6983",
+    "source_id": 6983,
+    "text_record_ids": [
+      66314
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6984_5245019c65.md",
+    "sha256": "5245019c65180361fb2664ce7a894f47b44a3580bd093d801b42f0b03d4f48cc",
+    "original_sha256": "f95a318bfe0756fa5d976498248873778d277d0a1108602e73a772c5736fb216",
+    "bytes": 18180,
+    "source": "corpus locale, source_id 6984",
+    "source_id": 6984,
+    "text_record_ids": [
+      66386,
+      66400,
+      66406,
+      66464,
+      66664
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/6997_5b9e8b8cfd.md",
+    "sha256": "5b9e8b8cfd303cc48d087d8d28d8dbfaf9ffc2189b45054b4a196b4c9cf6c05d",
+    "original_sha256": "5b9e8b8cfd303cc48d087d8d28d8dbfaf9ffc2189b45054b4a196b4c9cf6c05d",
+    "bytes": 1043,
+    "source": "corpus locale, source_id 6997",
+    "source_id": 6997,
+    "text_record_ids": [
+      67920
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7095_96c244b1e4.md",
+    "sha256": "96c244b1e456ac60af3c8c8cd9b1e65466bb0cff8996437be1485b41963fe773",
+    "original_sha256": "58906550a3bbcef042838ae0c55b87c050e855120601838d766d7ce9a2704622",
+    "bytes": 4341,
+    "source": "corpus locale, source_id 7095",
+    "source_id": 7095,
+    "text_record_ids": [
+      72500,
+      72506,
+      72507,
+      72509
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7097_cbcc1d6588.md",
+    "sha256": "cbcc1d6588d50641808a11db574ec424f966f0dc7f8cef8782fa6b2902560a77",
+    "original_sha256": "cbcc1d6588d50641808a11db574ec424f966f0dc7f8cef8782fa6b2902560a77",
+    "bytes": 750,
+    "source": "corpus locale, source_id 7097",
+    "source_id": 7097,
+    "text_record_ids": [
+      72581
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7099_9594ad64f5.md",
+    "sha256": "9594ad64f5eea88fde5a67cc119890c9d50557b989eae00ee65d484916c255f4",
+    "original_sha256": "9594ad64f5eea88fde5a67cc119890c9d50557b989eae00ee65d484916c255f4",
+    "bytes": 710,
+    "source": "corpus locale, source_id 7099",
+    "source_id": 7099,
+    "text_record_ids": [
+      72692
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7100_e192235839.md",
+    "sha256": "e192235839e97d8fa482192039098a44c12d589d3d60ac2f0b453ef76313f143",
+    "original_sha256": "e192235839e97d8fa482192039098a44c12d589d3d60ac2f0b453ef76313f143",
+    "bytes": 2115,
+    "source": "corpus locale, source_id 7100",
+    "source_id": 7100,
+    "text_record_ids": [
+      72774
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7103_8ee61f3e32.md",
+    "sha256": "8ee61f3e329817bab4e0f03dcf69c6c8b92ed1238353c59e8537ceb790763508",
+    "original_sha256": "8ee61f3e329817bab4e0f03dcf69c6c8b92ed1238353c59e8537ceb790763508",
+    "bytes": 640,
+    "source": "corpus locale, source_id 7103",
+    "source_id": 7103,
+    "text_record_ids": [
+      72832,
+      95523
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7105_c4407bfadc.md",
+    "sha256": "c4407bfadc412a53d3a10dbce3088e6187ad877a59b1c1e4020b42cb7d7b5741",
+    "original_sha256": "0d2dd1fdb55a3ef7d63eb809d8c3ccd53e019a6d52a2f72e440924df28748105",
+    "bytes": 14518,
+    "source": "corpus locale, source_id 7105",
+    "source_id": 7105,
+    "text_record_ids": [
+      72925,
+      72931,
+      72932,
+      72961,
+      72983,
+      73075,
+      73084,
+      73098
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7109_fd6de6ed08.md",
+    "sha256": "fd6de6ed08443846649505628d6dc5888ade6fb2ba4b5bc2ed0928214f61c226",
+    "original_sha256": "fd6de6ed08443846649505628d6dc5888ade6fb2ba4b5bc2ed0928214f61c226",
+    "bytes": 785,
+    "source": "corpus locale, source_id 7109",
+    "source_id": 7109,
+    "text_record_ids": [
+      73243,
+      73251
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7111_a62a15ecfd.md",
+    "sha256": "a62a15ecfd393bc96f7d88b169155c05e986905e83a42c0c0783a928ce89a624",
+    "original_sha256": "a62a15ecfd393bc96f7d88b169155c05e986905e83a42c0c0783a928ce89a624",
+    "bytes": 2459,
+    "source": "corpus locale, source_id 7111",
+    "source_id": 7111,
+    "text_record_ids": [
+      73273,
+      73307
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7112_f56deb07b9.md",
+    "sha256": "f56deb07b9cb861e6252c5b23242af6d1fba05c118f71946b8c9cf8f74a5b431",
+    "original_sha256": "f56deb07b9cb861e6252c5b23242af6d1fba05c118f71946b8c9cf8f74a5b431",
+    "bytes": 577,
+    "source": "corpus locale, source_id 7112",
+    "source_id": 7112,
+    "text_record_ids": [
+      73316
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7113_a20f2a72b2.md",
+    "sha256": "a20f2a72b2c838047eec3f181c82fa72bc6d834c71d94fd6493a477bf72a947b",
+    "original_sha256": "a20f2a72b2c838047eec3f181c82fa72bc6d834c71d94fd6493a477bf72a947b",
+    "bytes": 953,
+    "source": "corpus locale, source_id 7113",
+    "source_id": 7113,
+    "text_record_ids": [
+      73323,
+      73331
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7115_ed0b4864af.md",
+    "sha256": "ed0b4864afd7cdb8a82d2c730e3076f82c47f55c6ebf84caa86f1f9cf5df716d",
+    "original_sha256": "ed0b4864afd7cdb8a82d2c730e3076f82c47f55c6ebf84caa86f1f9cf5df716d",
+    "bytes": 2098,
+    "source": "corpus locale, source_id 7115",
+    "source_id": 7115,
+    "text_record_ids": [
+      73425
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7116_532b8afdfe.md",
+    "sha256": "532b8afdfe8d0a6435ace06b3acacb1ad9574f012ecdbc7f08e5f0ebe87468a3",
+    "original_sha256": "532b8afdfe8d0a6435ace06b3acacb1ad9574f012ecdbc7f08e5f0ebe87468a3",
+    "bytes": 4496,
+    "source": "corpus locale, source_id 7116",
+    "source_id": 7116,
+    "text_record_ids": [
+      73442,
+      73459,
+      73697,
+      73699,
+      73705
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7117_fe73a89310.md",
+    "sha256": "fe73a89310f2c10f79f5b7661e3f2f9b143ea1149396aeb18abf81507d5218d2",
+    "original_sha256": "fe73a89310f2c10f79f5b7661e3f2f9b143ea1149396aeb18abf81507d5218d2",
+    "bytes": 1060,
+    "source": "corpus locale, source_id 7117",
+    "source_id": 7117,
+    "text_record_ids": [
+      73731
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7118_8297e087d1.md",
+    "sha256": "8297e087d191b00c01874fa7dddd528abb2aa3726adf8c7737e142f26b729de6",
+    "original_sha256": "8297e087d191b00c01874fa7dddd528abb2aa3726adf8c7737e142f26b729de6",
+    "bytes": 1774,
+    "source": "corpus locale, source_id 7118",
+    "source_id": 7118,
+    "text_record_ids": [
+      73735,
+      95614
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7119_9d7a0dc982.md",
+    "sha256": "9d7a0dc9823ef226797f2ca13db2cbb31a2371c934c35fb75b1b7980a809cb04",
+    "original_sha256": "9d7a0dc9823ef226797f2ca13db2cbb31a2371c934c35fb75b1b7980a809cb04",
+    "bytes": 949,
+    "source": "corpus locale, source_id 7119",
+    "source_id": 7119,
+    "text_record_ids": [
+      73742
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7120_d4073eef5b.md",
+    "sha256": "d4073eef5b3e1c6d58f45fa59875f2762b1ea34f76a5f86f48d6fce1a1116999",
+    "original_sha256": "1652a6069fe407cd81830b4582d2ad25c6c3bb1d50517c3222ab103898f4535f",
+    "bytes": 8158,
+    "source": "corpus locale, source_id 7120",
+    "source_id": 7120,
+    "text_record_ids": [
+      73783,
+      73797,
+      73798,
+      73824,
+      73825
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7122_c374a9e9e7.md",
+    "sha256": "c374a9e9e71e43db03e5eef5e97381fd52b4fb8df79675ed8f6921740e66004d",
+    "original_sha256": "c374a9e9e71e43db03e5eef5e97381fd52b4fb8df79675ed8f6921740e66004d",
+    "bytes": 1717,
+    "source": "corpus locale, source_id 7122",
+    "source_id": 7122,
+    "text_record_ids": [
+      73878,
+      73885
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7123_449d6d36aa.md",
+    "sha256": "449d6d36aa80c5bfd8b22334934ef85cb4997796c06b2cce694c62e03357a715",
+    "original_sha256": "449d6d36aa80c5bfd8b22334934ef85cb4997796c06b2cce694c62e03357a715",
+    "bytes": 1065,
+    "source": "corpus locale, source_id 7123",
+    "source_id": 7123,
+    "text_record_ids": [
+      74025
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7127_f19f94c4c3.md",
+    "sha256": "f19f94c4c37eea7060d1212aede064bbb181e675621a4e7f1e0eb2696f5676b6",
+    "original_sha256": "e9b89575e24435d884d977aeeb8a3154ab0dd3ddc75850fb825ebe4edb7a65b1",
+    "bytes": 14371,
+    "source": "corpus locale, source_id 7127",
+    "source_id": 7127,
+    "text_record_ids": [
+      74124,
+      74128,
+      74137,
+      74138,
+      74140,
+      74142,
+      74154,
+      74156,
+      74198,
+      74199,
+      74211,
+      74452
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7128_cb19bf6969.md",
+    "sha256": "cb19bf6969eb6b853f1330734c934dd283a2e1b7c5d1560c5359e9a85c53b779",
+    "original_sha256": "cb19bf6969eb6b853f1330734c934dd283a2e1b7c5d1560c5359e9a85c53b779",
+    "bytes": 1140,
+    "source": "corpus locale, source_id 7128",
+    "source_id": 7128,
+    "text_record_ids": [
+      74473,
+      95618
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7130_c0d77ee1b4.md",
+    "sha256": "c0d77ee1b49948aa758651ef4e03ad3e9d1167941a331bcd567a6f74a8f5f0ca",
+    "original_sha256": "c0d77ee1b49948aa758651ef4e03ad3e9d1167941a331bcd567a6f74a8f5f0ca",
+    "bytes": 2002,
+    "source": "corpus locale, source_id 7130",
+    "source_id": 7130,
+    "text_record_ids": [
+      74484
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7131_b41da83a1e.md",
+    "sha256": "b41da83a1ea1b48f3af438efefcf750e5d256da16d06b10a4f80b01955481c85",
+    "original_sha256": "b41da83a1ea1b48f3af438efefcf750e5d256da16d06b10a4f80b01955481c85",
+    "bytes": 6262,
+    "source": "corpus locale, source_id 7131",
+    "source_id": 7131,
+    "text_record_ids": [
+      74491,
+      74493,
+      74495,
+      74497,
+      95622,
+      95624,
+      95626,
+      95628
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7135_1b5e49fd95.md",
+    "sha256": "1b5e49fd959ec4fbae51c1f85965c070602ca6118df3bcf36fde1a57bb82a786",
+    "original_sha256": "1b5e49fd959ec4fbae51c1f85965c070602ca6118df3bcf36fde1a57bb82a786",
+    "bytes": 557,
+    "source": "corpus locale, source_id 7135",
+    "source_id": 7135,
+    "text_record_ids": [
+      74510
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7136_7f29756090.md",
+    "sha256": "7f2975609004094664766c29045668b6e8a5aa0777f9b01fac07d51054669fa8",
+    "original_sha256": "0769b40c8189dcd1e2d6142c8991492482d3b87573aabf094453dd08d12f8cb4",
+    "bytes": 10880,
+    "source": "corpus locale, source_id 7136",
+    "source_id": 7136,
+    "text_record_ids": [
+      74512,
+      74514,
+      74518,
+      74520,
+      74522,
+      74526,
+      74528,
+      74530,
+      74532,
+      74534,
+      74536,
+      74537
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7138_8080d52f45.md",
+    "sha256": "8080d52f450c58437155488e96c13676a80eee1b37ea05de5d67dc2035f8975c",
+    "original_sha256": "ad5f240a91e0ac9110d2dd4b565124fd0025c9a0c41781d38d2d24d8e3ce81c2",
+    "bytes": 3661,
+    "source": "corpus locale, source_id 7138",
+    "source_id": 7138,
+    "text_record_ids": [
+      74597,
+      74711,
+      74712
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7139_a63d1ef028.md",
+    "sha256": "a63d1ef028274f680eb4e6cc76494272895cf13d61c4fb0a15f0006da3f1668d",
+    "original_sha256": "4cc97c6516233124d053b5ba3048d2352cbdc8074802b41cb5c9dd9369d12850",
+    "bytes": 11206,
+    "source": "corpus locale, source_id 7139",
+    "source_id": 7139,
+    "text_record_ids": [
+      74828,
+      74830,
+      74831,
+      74879,
+      74880,
+      74881,
+      74882,
+      74883,
+      74884,
+      74891
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7140_ee7d48ad71.md",
+    "sha256": "ee7d48ad71d2ffba0759879decfeabbe573778a26ed6f8f2617ee442e33c4097",
+    "original_sha256": "2a554952793ccd94739952fca7c4bb01b55bd9bcf4558fa1917e9549a08c01d5",
+    "bytes": 13899,
+    "source": "corpus locale, source_id 7140",
+    "source_id": 7140,
+    "text_record_ids": [
+      75034,
+      75035,
+      75036,
+      75037,
+      75038,
+      75039,
+      75040
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7143_ba5c37bacb.md",
+    "sha256": "ba5c37bacb44739798b90082a81c11b4b3a2a00f3cfb345285994372f395154f",
+    "original_sha256": "ba5c37bacb44739798b90082a81c11b4b3a2a00f3cfb345285994372f395154f",
+    "bytes": 767,
+    "source": "corpus locale, source_id 7143",
+    "source_id": 7143,
+    "text_record_ids": [
+      75201
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7144_c4b3872575.md",
+    "sha256": "c4b38725754a3f1cc00def9924945898c571ebea94e5dcc1af56aaa44daa8793",
+    "original_sha256": "28eaadfc33d8d35910ad72ef243534a6627674a807c2ae50b31f128792ca4636",
+    "bytes": 14314,
+    "source": "corpus locale, source_id 7144",
+    "source_id": 7144,
+    "text_record_ids": [
+      75228,
+      75251,
+      75255,
+      75257,
+      75261,
+      75263,
+      75265,
+      75267,
+      75269,
+      75275,
+      75280,
+      75281,
+      75282,
+      75284,
+      75294,
+      75317
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7147_a18ab9cd74.md",
+    "sha256": "a18ab9cd7420e86839f944f5bc17b52d5ad3b82d43716922d1488af38f259f7c",
+    "original_sha256": "a18ab9cd7420e86839f944f5bc17b52d5ad3b82d43716922d1488af38f259f7c",
+    "bytes": 1050,
+    "source": "corpus locale, source_id 7147",
+    "source_id": 7147,
+    "text_record_ids": [
+      75333
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7149_60a3dd6534.md",
+    "sha256": "60a3dd6534af3bface2b6ea7d79c5ff7be4f3cabeb4934fa276d53166d28bf5e",
+    "original_sha256": "490e6c6a827ebea611b9cc0440a00b3a15abe9c0b1d316efaada0f0ac7181517",
+    "bytes": 2299,
+    "source": "corpus locale, source_id 7149",
+    "source_id": 7149,
+    "text_record_ids": [
+      75364,
+      75378,
+      75441
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7150_07feefb6ff.md",
+    "sha256": "07feefb6ffe1c1bbe21da5132a392f8f423ac0a97da95ae01caa52c9f9085302",
+    "original_sha256": "07feefb6ffe1c1bbe21da5132a392f8f423ac0a97da95ae01caa52c9f9085302",
+    "bytes": 5932,
+    "source": "corpus locale, source_id 7150",
+    "source_id": 7150,
+    "text_record_ids": [
+      75539,
+      75565,
+      75568,
+      75573,
+      75575,
+      75613
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7152_f49a96a535.md",
+    "sha256": "f49a96a535c140140fd947f72604128f867a17a9cf427bac884d27db8151d125",
+    "original_sha256": "f49a96a535c140140fd947f72604128f867a17a9cf427bac884d27db8151d125",
+    "bytes": 2542,
+    "source": "corpus locale, source_id 7152",
+    "source_id": 7152,
+    "text_record_ids": [
+      75759,
+      75762
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7153_3e77f96004.md",
+    "sha256": "3e77f960047b7974c8741315db5f24bfbbf16d54190dc6af141d3dcc117ac9fe",
+    "original_sha256": "3e77f960047b7974c8741315db5f24bfbbf16d54190dc6af141d3dcc117ac9fe",
+    "bytes": 2109,
+    "source": "corpus locale, source_id 7153",
+    "source_id": 7153,
+    "text_record_ids": [
+      75826
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7154_4f54e6338e.md",
+    "sha256": "4f54e6338ec4b59def080eff58e89dba112d4b69140da38d4dee9933f1dce466",
+    "original_sha256": "4f54e6338ec4b59def080eff58e89dba112d4b69140da38d4dee9933f1dce466",
+    "bytes": 4070,
+    "source": "corpus locale, source_id 7154",
+    "source_id": 7154,
+    "text_record_ids": [
+      75870,
+      95631
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7157_39ede3f493.md",
+    "sha256": "39ede3f493e5951157eb982efc1e1aaf7c63d617a2f43ef7cee24cb8f61fb5ed",
+    "original_sha256": "22cfeed1c0f43d6ba92f0cec60f5492f030ac49534502b82d211ffde06f8556f",
+    "bytes": 14674,
+    "source": "corpus locale, source_id 7157",
+    "source_id": 7157,
+    "text_record_ids": [
+      75964,
+      75966,
+      75968,
+      76069,
+      76082,
+      76097,
+      76099,
+      76122,
+      95645,
+      95647,
+      95649,
+      95750,
+      95763,
+      95778,
+      95780,
+      95803
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7158_17d38c328e.md",
+    "sha256": "17d38c328eededcb26c952b7cee807b98105ef39f9fb3ea01313e31534f0fd1a",
+    "original_sha256": "17d38c328eededcb26c952b7cee807b98105ef39f9fb3ea01313e31534f0fd1a",
+    "bytes": 1100,
+    "source": "corpus locale, source_id 7158",
+    "source_id": 7158,
+    "text_record_ids": [
+      76151,
+      95832
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7159_c5223bfd44.md",
+    "sha256": "c5223bfd4447636997d591f351f12a3e02ee80886a5f955b811ed7cbae464ca7",
+    "original_sha256": "c5223bfd4447636997d591f351f12a3e02ee80886a5f955b811ed7cbae464ca7",
+    "bytes": 1023,
+    "source": "corpus locale, source_id 7159",
+    "source_id": 7159,
+    "text_record_ids": [
+      76175,
+      76179,
+      76181,
+      76187
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7162_24293dd5ec.md",
+    "sha256": "24293dd5ecc1ce7922ffc84b266cc6812955c2f596502e1bfb3e0259135fbadf",
+    "original_sha256": "e5337dbf002edca9bccd895587b22bed8f7d2fb7136ff0a54a11c7d6cc31cf8f",
+    "bytes": 16915,
+    "source": "corpus locale, source_id 7162",
+    "source_id": 7162,
+    "text_record_ids": [
+      76214,
+      76217,
+      76229,
+      76233,
+      76241,
+      76248,
+      76250,
+      76257,
+      76262,
+      76267,
+      76271,
+      76273,
+      76277,
+      76279,
+      76295,
+      76307,
+      76310,
+      76312,
+      76329,
+      76341,
+      76350,
+      76351,
+      76352,
+      76354,
+      76365,
+      76387,
+      76417,
+      76427,
+      76428,
+      76443
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7345_666ad9adde.md",
+    "sha256": "666ad9addeaacae7ea7b0658c5c7bf26f87af7123a0d5eb8b6f5c39aceedf01e",
+    "original_sha256": "666ad9addeaacae7ea7b0658c5c7bf26f87af7123a0d5eb8b6f5c39aceedf01e",
+    "bytes": 4453,
+    "source": "corpus locale, source_id 7345",
+    "source_id": 7345,
+    "text_record_ids": [
+      76869,
+      76877,
+      76879
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7347_f01bdbeb4c.md",
+    "sha256": "f01bdbeb4c2f56034a431919b00a1857b9a5717a0aaecd6cfa66c6fef9e19759",
+    "original_sha256": "f01bdbeb4c2f56034a431919b00a1857b9a5717a0aaecd6cfa66c6fef9e19759",
+    "bytes": 4184,
+    "source": "corpus locale, source_id 7347",
+    "source_id": 7347,
+    "text_record_ids": [
+      76883,
+      76884,
+      96193,
+      96194
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7349_b64284b9bf.md",
+    "sha256": "b64284b9bf2e5799b208f093ac30a212c0fdf38630ea04b06d4d4bb03ad01b12",
+    "original_sha256": "b64284b9bf2e5799b208f093ac30a212c0fdf38630ea04b06d4d4bb03ad01b12",
+    "bytes": 1844,
+    "source": "corpus locale, source_id 7349",
+    "source_id": 7349,
+    "text_record_ids": [
+      76886,
+      96196
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7350_4c50b2a93d.md",
+    "sha256": "4c50b2a93dfa6a762e9091e8edb835f1ac9d4305e4cccbceae0d5df96ab08263",
+    "original_sha256": "4c50b2a93dfa6a762e9091e8edb835f1ac9d4305e4cccbceae0d5df96ab08263",
+    "bytes": 7792,
+    "source": "corpus locale, source_id 7350",
+    "source_id": 7350,
+    "text_record_ids": [
+      76887,
+      76888,
+      96197,
+      96198
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7358_d34e37f9cc.md",
+    "sha256": "d34e37f9cc142d6476188babcb3a5d35b1b971b69af12c0a00fcfdd2add43d67",
+    "original_sha256": "4b69b1bf7efad0146181e13cc861e73f261443721d3176ac2d653698f5081fed",
+    "bytes": 8350,
+    "source": "corpus locale, source_id 7358",
+    "source_id": 7358,
+    "text_record_ids": [
+      76908,
+      76909,
+      76910,
+      76912,
+      76914,
+      76940,
+      76944
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7359_1be7028989.md",
+    "sha256": "1be7028989abc71aeab464d4e1beb68479525f2dd59e6c74e09dbb81e53c066d",
+    "original_sha256": "1be7028989abc71aeab464d4e1beb68479525f2dd59e6c74e09dbb81e53c066d",
+    "bytes": 10524,
+    "source": "corpus locale, source_id 7359",
+    "source_id": 7359,
+    "text_record_ids": [
+      76984,
+      76985,
+      76986,
+      96210,
+      96211,
+      96212
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7363_b785866543.md",
+    "sha256": "b785866543bcb374b52ecb18ab32d97d20f766ffefc0d9868ec1829fb72dd560",
+    "original_sha256": "b785866543bcb374b52ecb18ab32d97d20f766ffefc0d9868ec1829fb72dd560",
+    "bytes": 1848,
+    "source": "corpus locale, source_id 7363",
+    "source_id": 7363,
+    "text_record_ids": [
+      76991,
+      96217
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7364_a96cab243a.md",
+    "sha256": "a96cab243ac6df7e908f561995bd4afa1a08403c4bd900159123d379db0305ad",
+    "original_sha256": "8ffa43871de5b331af597066b0504db5875bce5882746eed707cb94884d97bf6",
+    "bytes": 7790,
+    "source": "corpus locale, source_id 7364",
+    "source_id": 7364,
+    "text_record_ids": [
+      77004,
+      77007,
+      77011,
+      77017,
+      77019,
+      77021,
+      77023,
+      77034,
+      77035,
+      77037,
+      77045
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7367_11ed52669c.md",
+    "sha256": "11ed52669c97b63cb012e757e21f92bef63ed4e7c924474dce8296a06111f184",
+    "original_sha256": "11ed52669c97b63cb012e757e21f92bef63ed4e7c924474dce8296a06111f184",
+    "bytes": 4268,
+    "source": "corpus locale, source_id 7367",
+    "source_id": 7367,
+    "text_record_ids": [
+      77059,
+      77060,
+      96219,
+      96220
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7370_edfe264fac.md",
+    "sha256": "edfe264facb475c305106b213ee085ffdef07e4e63384263b1a817bb23c1221f",
+    "original_sha256": "edfe264facb475c305106b213ee085ffdef07e4e63384263b1a817bb23c1221f",
+    "bytes": 5262,
+    "source": "corpus locale, source_id 7370",
+    "source_id": 7370,
+    "text_record_ids": [
+      77064,
+      77065,
+      96224,
+      96225
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7376_6d645e9773.md",
+    "sha256": "6d645e9773467287249e1aaf6fe7bfc21c07cd198f60b3dec980692ea0592555",
+    "original_sha256": "1b9a19c2da1b4e168186468c6e05b08c6797bdae3ebed4259bdb53a0e4ac42c6",
+    "bytes": 91888,
+    "source": "corpus locale, source_id 7376",
+    "source_id": 7376,
+    "text_record_ids": [
+      77094,
+      77095,
+      77099,
+      77101,
+      77136,
+      77138,
+      77142,
+      77157,
+      77222,
+      77285,
+      77287,
+      77292,
+      77328,
+      77330,
+      77332,
+      77334,
+      77336,
+      77338,
+      77340,
+      77342,
+      77344,
+      77367,
+      77369,
+      77373,
+      77407,
+      77409,
+      77423,
+      77424,
+      77425,
+      77426,
+      77446,
+      77450,
+      77466,
+      77537,
+      77560
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7377_e6915ee5bf.md",
+    "sha256": "e6915ee5bfdbdb8a7afe88ae92da9c525c51c382d32b82c724d23edfd67c74e5",
+    "original_sha256": "e6915ee5bfdbdb8a7afe88ae92da9c525c51c382d32b82c724d23edfd67c74e5",
+    "bytes": 4418,
+    "source": "corpus locale, source_id 7377",
+    "source_id": 7377,
+    "text_record_ids": [
+      77561,
+      77562,
+      96240,
+      96241
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7382_e6e06f55a1.md",
+    "sha256": "e6e06f55a184bd3d7dd01901d0ad7426a8687d6c9efcef306fd19dc69a549560",
+    "original_sha256": "e6e06f55a184bd3d7dd01901d0ad7426a8687d6c9efcef306fd19dc69a549560",
+    "bytes": 9392,
+    "source": "corpus locale, source_id 7382",
+    "source_id": 7382,
+    "text_record_ids": [
+      77586,
+      77587,
+      77588,
+      96265,
+      96266,
+      96267
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7399_f78f803034.md",
+    "sha256": "f78f803034c132bef3ce1f1b15e09cc678fcd5c37706c6e62cdeba022c15cfac",
+    "original_sha256": "f78f803034c132bef3ce1f1b15e09cc678fcd5c37706c6e62cdeba022c15cfac",
+    "bytes": 41140,
+    "source": "corpus locale, source_id 7399",
+    "source_id": 7399,
+    "text_record_ids": [
+      77670,
+      77674,
+      77675,
+      77680,
+      77684,
+      77686,
+      77687,
+      77689,
+      77691,
+      98119,
+      98123,
+      98124,
+      98129,
+      98133,
+      98135,
+      98136,
+      98138,
+      98140
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7400_3c8e019049.md",
+    "sha256": "3c8e01904989ec2227b88d32b62e9b462e966cf30036b25d0ca097e897551fed",
+    "original_sha256": "af52d656faeb5066166547a2efdf33f41815afd7b755ea22596894098dc1edc0",
+    "bytes": 39752,
+    "source": "corpus locale, source_id 7400",
+    "source_id": 7400,
+    "text_record_ids": [
+      77749,
+      77750,
+      77751,
+      77752,
+      77754,
+      77755,
+      77758,
+      77759,
+      77764,
+      77769,
+      77770,
+      77772,
+      77774,
+      77775,
+      98198,
+      98199,
+      98200,
+      98201,
+      98203,
+      98204,
+      98207,
+      98208,
+      98213,
+      98218,
+      98219,
+      98221,
+      98223,
+      98224
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7402_e91b0aa0fb.md",
+    "sha256": "e91b0aa0fb9583cb409a84de49e9edfdfa5ddc762fd1f8af400ac1da5ff5e833",
+    "original_sha256": "368ac21d9198121301a323a193e7e9d3774c82346f20b943494821a78b6eb4ac",
+    "bytes": 18620,
+    "source": "corpus locale, source_id 7402",
+    "source_id": 7402,
+    "text_record_ids": [
+      77835,
+      77837,
+      77839,
+      98284,
+      98286,
+      98288
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7403_5c06988142.md",
+    "sha256": "5c06988142d4de10905c1fcf5550460f79c1fbba785593f906480f0947ac9ab7",
+    "original_sha256": "945699fda9cc710ca43ad5ae13566b1f6fae2ecb867288824296b03f58455594",
+    "bytes": 192584,
+    "source": "corpus locale, source_id 7403",
+    "source_id": 7403,
+    "text_record_ids": [
+      77866,
+      77867,
+      77869,
+      77875,
+      77921,
+      77924,
+      77925,
+      77938,
+      77942,
+      77944,
+      77957,
+      77959,
+      77963,
+      78021,
+      78024,
+      78184,
+      78195,
+      78229,
+      78230,
+      78231,
+      78232,
+      78233,
+      78246,
+      78247,
+      78251,
+      78255,
+      78261,
+      78273,
+      78301,
+      78309,
+      78312,
+      78315,
+      78316,
+      78321,
+      78325,
+      78329,
+      78331,
+      78333,
+      78335,
+      78336,
+      78337,
+      78339,
+      78341,
+      78346,
+      78347,
+      78349,
+      78357,
+      78358,
+      78359,
+      78360,
+      78361,
+      78363,
+      78365,
+      78381,
+      78385,
+      78389,
+      78397,
+      78399,
+      78409,
+      78411,
+      78413,
+      78423,
+      98315,
+      98316,
+      98318,
+      98324,
+      98370,
+      98373,
+      98374,
+      98387,
+      98391,
+      98393,
+      98406,
+      98408,
+      98412,
+      98470,
+      98473,
+      98633,
+      98644,
+      98678,
+      98679,
+      98680,
+      98681,
+      98682,
+      98695,
+      98696,
+      98700,
+      98704,
+      98710,
+      98722,
+      98750,
+      98758,
+      98761,
+      98764,
+      98765,
+      98770,
+      98774,
+      98778,
+      98780,
+      98782,
+      98784,
+      98785,
+      98786,
+      98788,
+      98790,
+      98795,
+      98796,
+      98798,
+      98806,
+      98807,
+      98808,
+      98809,
+      98810,
+      98812,
+      98814,
+      98830,
+      98834,
+      98838,
+      98846,
+      98848,
+      98858,
+      98860,
+      98862,
+      98872
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7405_37dc41f630.md",
+    "sha256": "37dc41f630bc84cff6594870e1aa299c3446fc10a2837bafe2862284ec2b74dc",
+    "original_sha256": "380b1cc3d589bfb817953d7324ae32959f64d6833058949fa453b866432de4cc",
+    "bytes": 50354,
+    "source": "corpus locale, source_id 7405",
+    "source_id": 7405,
+    "text_record_ids": [
+      78449,
+      78451,
+      78459,
+      78463,
+      78471,
+      78485,
+      78498,
+      78505,
+      78511,
+      78645,
+      78646,
+      78648,
+      78649,
+      78650,
+      78652,
+      78654,
+      78658,
+      78662,
+      78664,
+      78666,
+      78681,
+      78693,
+      78695,
+      78712,
+      78723,
+      78724
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7406_96457e82df.md",
+    "sha256": "96457e82df9d75c686f0b9097c5808d634390b4564a1777b5c89cf370add35cf",
+    "original_sha256": "96457e82df9d75c686f0b9097c5808d634390b4564a1777b5c89cf370add35cf",
+    "bytes": 2517,
+    "source": "corpus locale, source_id 7406",
+    "source_id": 7406,
+    "text_record_ids": [
+      78735,
+      78736,
+      78737
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7407_93ab2eb36d.md",
+    "sha256": "93ab2eb36dfc6931afb94e8b88f539679b7e489ae0279181f988f74a37ac88e4",
+    "original_sha256": "382eeb7b7c62ead9a49b482c88a4a3b4bb478d31e5ee04466f7642e62fc0391f",
+    "bytes": 144284,
+    "source": "corpus locale, source_id 7407",
+    "source_id": 7407,
+    "text_record_ids": [
+      78744,
+      78746,
+      78756,
+      78792,
+      78815,
+      78849,
+      78850,
+      78852,
+      78854,
+      78857,
+      78859,
+      78865,
+      78876,
+      78881,
+      78890,
+      78901,
+      78902,
+      78903,
+      78904,
+      78909,
+      78918,
+      78930,
+      78935,
+      78948,
+      78953,
+      78956,
+      78964,
+      78969,
+      78970,
+      78971,
+      78976,
+      79015,
+      79018,
+      79029,
+      79032,
+      79043,
+      79046,
+      79047,
+      79048,
+      79049,
+      79058,
+      79069,
+      79074,
+      98898,
+      98900,
+      98910,
+      98946,
+      98969,
+      99003,
+      99004,
+      99006,
+      99008,
+      99011,
+      99013,
+      99019,
+      99030,
+      99035,
+      99044,
+      99055,
+      99056,
+      99057,
+      99058,
+      99063,
+      99072,
+      99084,
+      99089,
+      99102,
+      99107,
+      99110,
+      99118,
+      99123,
+      99124,
+      99125,
+      99130,
+      99169,
+      99172,
+      99183,
+      99186,
+      99197,
+      99200,
+      99201,
+      99202,
+      99203,
+      99212,
+      99223,
+      99228
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7408_41dd4d1231.md",
+    "sha256": "41dd4d1231f99a722ed76a43f6c50a061093dec1e4f0636811566cc207217124",
+    "original_sha256": "620eb346e6f3579b944310e588688e98cfe81502a18ee19e64ae8a7244aba37a",
+    "bytes": 9880,
+    "source": "corpus locale, source_id 7408",
+    "source_id": 7408,
+    "text_record_ids": [
+      79082,
+      79083,
+      79103,
+      79109,
+      79111,
+      79112,
+      79113,
+      79115,
+      79116,
+      79118,
+      79119,
+      79121,
+      79123,
+      79125,
+      79127,
+      79129,
+      79131,
+      79133,
+      79135,
+      79137,
+      79139,
+      79140,
+      79141
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7409_fa56fae9c2.md",
+    "sha256": "fa56fae9c269e68af3fc4cc2b8733ed2b9fe3536aa86abf866c4afbf5d60176d",
+    "original_sha256": "b90dd8402ac1adced878693244594ba05f6e7e0d1460ba5afbe3f6616e68d849",
+    "bytes": 6225,
+    "source": "corpus locale, source_id 7409",
+    "source_id": 7409,
+    "text_record_ids": [
+      79145,
+      79149,
+      79153,
+      79155,
+      79165,
+      79167,
+      79195
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7411_d4ea8e8d70.md",
+    "sha256": "d4ea8e8d70d1f8fdf865ac9f083df8a597b7d457fdc159e5df093f616217ad4e",
+    "original_sha256": "d4ea8e8d70d1f8fdf865ac9f083df8a597b7d457fdc159e5df093f616217ad4e",
+    "bytes": 4754,
+    "source": "corpus locale, source_id 7411",
+    "source_id": 7411,
+    "text_record_ids": [
+      79231,
+      99232
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7413_6d6e0b48b4.md",
+    "sha256": "6d6e0b48b475205732108808a3068b537bad39ea1e9e2971bf7de3d2c295c377",
+    "original_sha256": "3f460c0a4970ca87bc2211d453ccc3f18d52e159b238adb4efa31a051a21291d",
+    "bytes": 1059,
+    "source": "corpus locale, source_id 7413",
+    "source_id": 7413,
+    "text_record_ids": [
+      79298,
+      79300
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7415_ea76468e0e.md",
+    "sha256": "ea76468e0eab67458161a302b9bbf067502c40360c3a13c8b75bf058b1300699",
+    "original_sha256": "ea76468e0eab67458161a302b9bbf067502c40360c3a13c8b75bf058b1300699",
+    "bytes": 1065,
+    "source": "corpus locale, source_id 7415",
+    "source_id": 7415,
+    "text_record_ids": [
+      79322
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7417_ae5138144f.md",
+    "sha256": "ae5138144f09e2e67e76ba9150bd8021e773d2c2264fd526f23e515346b6bac1",
+    "original_sha256": "700bc594191950288e85aa7ba9b625faf3533c14d2b5bb3429f1db3db15b91b5",
+    "bytes": 11944,
+    "source": "corpus locale, source_id 7417",
+    "source_id": 7417,
+    "text_record_ids": [
+      79352,
+      79354,
+      99327,
+      99329
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7418_16ed8b9e1f.md",
+    "sha256": "16ed8b9e1f603576c250c859d45cbbec9cf864ab01febace421eafdfb5ab1b97",
+    "original_sha256": "16ed8b9e1f603576c250c859d45cbbec9cf864ab01febace421eafdfb5ab1b97",
+    "bytes": 1426,
+    "source": "corpus locale, source_id 7418",
+    "source_id": 7418,
+    "text_record_ids": [
+      79355,
+      99330
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7419_3ed2a8c72f.md",
+    "sha256": "3ed2a8c72f495f02294ce5519f924d373b28d5528beb1bb0b5f8dcfeecfcac4b",
+    "original_sha256": "de290c3efcfec2aeb5f2caa8329a14b6ef81cb269532a999471dafbc83f9e799",
+    "bytes": 4116,
+    "source": "corpus locale, source_id 7419",
+    "source_id": 7419,
+    "text_record_ids": [
+      79357,
+      99332
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7422_8556db103c.md",
+    "sha256": "8556db103c157e8a483e155cc34d3d8820934bcf80579c78d513e7473b5bb583",
+    "original_sha256": "8556db103c157e8a483e155cc34d3d8820934bcf80579c78d513e7473b5bb583",
+    "bytes": 1958,
+    "source": "corpus locale, source_id 7422",
+    "source_id": 7422,
+    "text_record_ids": [
+      79366,
+      99341
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7423_6e3629dcd9.md",
+    "sha256": "6e3629dcd9ab61793522d6ea103ef6248232bdaeb045ecf1c9feacea2c28c4a2",
+    "original_sha256": "6e3629dcd9ab61793522d6ea103ef6248232bdaeb045ecf1c9feacea2c28c4a2",
+    "bytes": 3862,
+    "source": "corpus locale, source_id 7423",
+    "source_id": 7423,
+    "text_record_ids": [
+      79368,
+      79369,
+      99343,
+      99344
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7424_1f81294a49.md",
+    "sha256": "1f81294a4918070a2ceb309cac1778ae3a685ef30c3e0158470b2b266318be0e",
+    "original_sha256": "1f81294a4918070a2ceb309cac1778ae3a685ef30c3e0158470b2b266318be0e",
+    "bytes": 2559,
+    "source": "corpus locale, source_id 7424",
+    "source_id": 7424,
+    "text_record_ids": [
+      99348
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7425_3d4aadf411.md",
+    "sha256": "3d4aadf41163b22325e8e085e6825b2e8ee7362ec8f22c7aee6455ab7ed37aac",
+    "original_sha256": "3d4aadf41163b22325e8e085e6825b2e8ee7362ec8f22c7aee6455ab7ed37aac",
+    "bytes": 826,
+    "source": "corpus locale, source_id 7425",
+    "source_id": 7425,
+    "text_record_ids": [
+      79385,
+      99417
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7427_e97b6d9fcb.md",
+    "sha256": "e97b6d9fcbba1ee7f1509c289305d89863e081b8166c1768ba4de34da337355f",
+    "original_sha256": "2f41a6f64c05f682990683870469964cbb7541204c423d7f525c90bc788b115b",
+    "bytes": 2678,
+    "source": "corpus locale, source_id 7427",
+    "source_id": 7427,
+    "text_record_ids": [
+      79390,
+      99422
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/7429_b16f1a5b3d.md",
+    "sha256": "b16f1a5b3d739b80cc07a70b1187287e0b2e34e96b84b59645565f2dfe7e2b24",
+    "original_sha256": "938d8fc11c064e131c5e59189352e0923f72031a7c9eabde9d0f54f79658fba4",
+    "bytes": 11940,
+    "source": "corpus locale, source_id 7429",
+    "source_id": 7429,
+    "text_record_ids": [
+      79395,
+      79397,
+      99424,
+      99426
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/8456_4bba3f16de.md",
+    "sha256": "4bba3f16de94f9e190510ccf0d53fc303ee39ed196319e6d62cfa4ea2808c187",
+    "original_sha256": "ccb2d0b34b1af0655e6a9ea649f8b22016f624fef2e16ba6261d6501429cda1e",
+    "bytes": 1067,
+    "source": "corpus locale, source_id 8456",
+    "source_id": 8456,
+    "text_record_ids": [
+      80707
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/8460_30934c130a.md",
+    "sha256": "30934c130aade1c9bc9783581cc573ef10d12a75ac7f1f34df7809d67b978ef3",
+    "original_sha256": "65e20070b093551deb1c8a748739663214fda65cec4c89054655378d1159dd90",
+    "bytes": 4429,
+    "source": "corpus locale, source_id 8460",
+    "source_id": 8460,
+    "text_record_ids": [
+      81465,
+      81466,
+      81468,
+      81471,
+      81472,
+      81481
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/8465_3087eb2f36.md",
+    "sha256": "3087eb2f364f6bdd2e96e126c7299d9d0a359139e676720028a182282c15e19a",
+    "original_sha256": "9e16eb79053206d643d66420fa25274f70b2975c0cd610cdfe3d4b14892df8a6",
+    "bytes": 5232,
+    "source": "corpus locale, source_id 8465",
+    "source_id": 8465,
+    "text_record_ids": [
+      82198
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/8480_81e63f0750.md",
+    "sha256": "81e63f0750ee9a8c003deccb550c029cf8cd093a523957a9746675cc6a1b5f49",
+    "original_sha256": "248128bbdeabaaa36ec22190941b6248f88b0b41ab6be0755ab448f4e39389bf",
+    "bytes": 4883,
+    "source": "corpus locale, source_id 8480",
+    "source_id": 8480,
+    "text_record_ids": [
+      84394,
+      84421,
+      84442
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/8482_61e94e07a0.md",
+    "sha256": "61e94e07a05e11badc3e1f043683f8733024967018056d83ff32efe735c6c623",
+    "original_sha256": "61e94e07a05e11badc3e1f043683f8733024967018056d83ff32efe735c6c623",
+    "bytes": 994,
+    "source": "corpus locale, source_id 8482",
+    "source_id": 8482,
+    "text_record_ids": [
+      84878
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/8493_360bde142b.md",
+    "sha256": "360bde142bc208f27f72dd0c8677874fb09d734c0c3a8e9ba2d28377f131841e",
+    "original_sha256": "7500c8c6359e579c88401f3b25bb2d8234789f54e59c72dfb615b95a09154c61",
+    "bytes": 2454,
+    "source": "corpus locale, source_id 8493",
+    "source_id": 8493,
+    "text_record_ids": [
+      86392,
+      86397
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/42523_2e3f9c6efe.md",
+    "sha256": "2e3f9c6efe013ce139c70d77be7c870836ecdd2ce4138cca95a94f2c328ac77d",
+    "original_sha256": "2e3f9c6efe013ce139c70d77be7c870836ecdd2ce4138cca95a94f2c328ac77d",
+    "bytes": 4005,
+    "source": "corpus locale, source_id 42523",
+    "source_id": 42523,
+    "text_record_ids": [
+      108712
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/42524_83df8b563c.md",
+    "sha256": "83df8b563c1b531e1f7d4f4649798649f4f76b98543a966636e1ea6d427b4065",
+    "original_sha256": "55c025fcc78ace64a4b07f7d7829fe49fde8f7e39ddd6fc9c2c5b048c1163536",
+    "bytes": 18186,
+    "source": "corpus locale, source_id 42524",
+    "source_id": 42524,
+    "text_record_ids": [
+      108784,
+      108798,
+      108804,
+      108862,
+      109062
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Claude e OpenClaw/42537_2c57012022.md",
+    "sha256": "2c570120226548f74570a14a1570880824a9333d10b19dffc20a669e9d65b8e3",
+    "original_sha256": "2c570120226548f74570a14a1570880824a9333d10b19dffc20a669e9d65b8e3",
+    "bytes": 1045,
+    "source": "corpus locale, source_id 42537",
+    "source_id": 42537,
+    "text_record_ids": [
+      110318
+    ],
+    "representation": "messaggi tematici selezionati, ruoli conservati, copia pubblicabile",
+    "hash_scope": "hash dell estrazione formattata prima e dopo oscuramento"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/1d3e485f-830c-46d6-92ae-89ec5e98b60a_b6b59b4238.md",
+    "sha256": "b6b59b42380b9dc910804b140b6e8ca2fb584ae53befd0970ba42748383429fb",
+    "original_sha256": "b6b59b42380b9dc910804b140b6e8ca2fb584ae53befd0970ba42748383429fb",
+    "bytes": 2499,
+    "source": "snapshot di sessione locale 1d3e485f-830c-46d6-92ae-89ec5e98b60a",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/224f1068-bc43-43fe-bfc7-6dc338a102e9_bc6b5a6bb0.md",
+    "sha256": "bc6b5a6bb02372363af917928fc06901fad25f819030909bf008d7bc64ebc426",
+    "original_sha256": "525c62f9593042fd64080f4cb078fea054af3e0631e035abd0e4d9a60602ca1f",
+    "bytes": 3837,
+    "source": "snapshot di sessione locale 224f1068-bc43-43fe-bfc7-6dc338a102e9",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/3246758e-3c24-4c8e-9c72-4a73b38cb1ab_fc66fb5139.md",
+    "sha256": "fc66fb5139ebbffd311a9f94f865d2d623c4c491c9f97a9ac43255a2afd1728d",
+    "original_sha256": "daac99c1f031c6f44f33b6b95b7d4fb5a7bed199ad63f98d1639cc37fe856873",
+    "bytes": 2143,
+    "source": "snapshot di sessione locale 3246758e-3c24-4c8e-9c72-4a73b38cb1ab",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/8959f4af-25ba-43eb-b4e4-34ec2a1ba220_1dd283e36c.md",
+    "sha256": "1dd283e36c481bc386218d87e74be7f74c0557be0ca95c1ef8a1b82db588b1f5",
+    "original_sha256": "1dd283e36c481bc386218d87e74be7f74c0557be0ca95c1ef8a1b82db588b1f5",
+    "bytes": 7465,
+    "source": "snapshot di sessione locale 8959f4af-25ba-43eb-b4e4-34ec2a1ba220",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/9132b54f-d824-41e2-9c7c-2f4414295843_7ab5289d9f.md",
+    "sha256": "7ab5289d9fb2e90b0651f8176477c56dcacb0dff61534625cb6be007a48f73c3",
+    "original_sha256": "361bb9ccfea36401c22c631974232474c381a406661186e8da993323e55a0934",
+    "bytes": 12088,
+    "source": "snapshot di sessione locale 9132b54f-d824-41e2-9c7c-2f4414295843",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/ac6a4f39-1169-4364-8cb2-576d5a42b749_e35c13958d.md",
+    "sha256": "e35c13958d308f3ba69259fb27f50010713058e02e533df69399866db56731f3",
+    "original_sha256": "296d869d2268f3073e12686b90358a606633e77cdb7b49bce47f2a5378bae83e",
+    "bytes": 10337,
+    "source": "snapshot di sessione locale ac6a4f39-1169-4364-8cb2-576d5a42b749",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/agent-a10a4765803495611_a3ec80c86f.md",
+    "sha256": "a3ec80c86fedd90aa743c5063af42025eb44c84462bc2c316eb29c512f28d630",
+    "original_sha256": "3075a25c5cf81114a95d1b90afb8c780eb06d37d9b3cd328f9b5ee276bdaf043",
+    "bytes": 1993,
+    "source": "snapshot di sessione locale agent-a10a4765803495611",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/agent-a6ed2b3cedbd7e43a_49b2d84393.md",
+    "sha256": "49b2d843939cb1d42070a23fd4e138fcb2f974d0b3a383a7e3e822f914045dbd",
+    "original_sha256": "356ff5ad516ef366faa786f711d8b7ea2a4add8019b001ac0935770dfae8a272",
+    "bytes": 87167,
+    "source": "snapshot di sessione locale agent-a6ed2b3cedbd7e43a",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/agent-a750ac548c54b9931_b97ca809f8.md",
+    "sha256": "b97ca809f899884ebb444d0f9ae8652302d15b55b21b8a28097a16cec884015f",
+    "original_sha256": "0aca4a5bc8fc557c2a53c3ce84b329ee7ab35a5c8619bb4cf7adb7eb02cd76f7",
+    "bytes": 87247,
+    "source": "snapshot di sessione locale agent-a750ac548c54b9931",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/f0166839-f99f-4dcf-8104-5d2eef167716_aef33fd35e.md",
+    "sha256": "aef33fd35eeaf0af21ed3e67a4ceffd6ead658e3859732c31c4e876ab0d496b7",
+    "original_sha256": "aef33fd35eeaf0af21ed3e67a4ceffd6ead658e3859732c31c4e876ab0d496b7",
+    "bytes": 14027,
+    "source": "snapshot di sessione locale f0166839-f99f-4dcf-8104-5d2eef167716",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-09-22T23-51-40-01a0cb1a-6954-74e1-8635-7da859d7d9f1_8fe124e34a.md",
+    "sha256": "8fe124e34ae93caf7730241b6022bece1515c797b55a4d4aeb3cfe379056fd41",
+    "original_sha256": "8fe124e34ae93caf7730241b6022bece1515c797b55a4d4aeb3cfe379056fd41",
+    "bytes": 11050,
+    "source": "snapshot di sessione locale rollout-2026-09-22T23-51-40-01a0cb1a-6954-74e1-8635-7da859d7d9f1",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-09-28T12-53-06-01a0e7a5-a0be-7940-ac0d-cb0e34b5b389_cedeedf019.md",
+    "sha256": "cedeedf019a0753736ef0d701516a27ffca28cded6db41f81191aba3a23b7f23",
+    "original_sha256": "201d383389c9808a9a6966266c26fd4287ae9450e6e894b8dfd5c0cec4a41db3",
+    "bytes": 19687,
+    "source": "snapshot di sessione locale rollout-2026-09-28T12-53-06-01a0e7a5-a0be-7940-ac0d-cb0e34b5b389",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-09-29T00-12-21-01a0ea13-7e84-7212-b78a-e389029f465c_1164b717d7.md",
+    "sha256": "1164b717d7a3e25cc40c73ada4314a37958cf6d5ca4fb8d44d7b5f0de5e5e2c6",
+    "original_sha256": "e931bfa1b5f5053db26e6dfb4ca41d5d6b847d865ebf22ec493f12d595711075",
+    "bytes": 9078,
+    "source": "snapshot di sessione locale rollout-2026-09-29T00-12-21-01a0ea13-7e84-7212-b78a-e389029f465c",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-09-29T15-16-51-01a0ed4f-97d6-7952-9c79-e17af3b132a4_721ad4c9ae.md",
+    "sha256": "721ad4c9ae53c3f8f1ff7724eb7b053f5090066280fe0564a3669130c7bf41e0",
+    "original_sha256": "a6d8cf68d38903242e0d52b9cf1677a423cf7f42a5f40a9d01c928ac0286daed",
+    "bytes": 10580,
+    "source": "snapshot di sessione locale rollout-2026-09-29T15-16-51-01a0ed4f-97d6-7952-9c79-e17af3b132a4",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-09-30T01-38-18-01a0ef88-8b97-7e52-a52e-7aea3f52ed7b_e6df5a1d31.md",
+    "sha256": "e6df5a1d3172f295d8128225cdb05a567d67ce8c602675bf391ccea6df65af20",
+    "original_sha256": "73ba16f6c7e1bf33022767ee9d980fdc32f28a22a6b2b55c842567d8efb61775",
+    "bytes": 11591,
+    "source": "snapshot di sessione locale rollout-2026-09-30T01-38-18-01a0ef88-8b97-7e52-a52e-7aea3f52ed7b",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-02T00-10-05-01a0f984-8032-7b43-8c2a-6fd4fe8a4330_b66e96ab59.md",
+    "sha256": "b66e96ab591c089bb14c7dfe8f1e5564313ce84ee779110485741dc8b73b8f4c",
+    "original_sha256": "b66e96ab591c089bb14c7dfe8f1e5564313ce84ee779110485741dc8b73b8f4c",
+    "bytes": 6290,
+    "source": "snapshot di sessione locale rollout-2026-10-02T00-10-05-01a0f984-8032-7b43-8c2a-6fd4fe8a4330",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-02T14-52-48-01a0fcac-a53f-7b43-be8b-7cf665e8220b_a8de44a5ff.md",
+    "sha256": "a8de44a5ffe8bfb5a07f5c647c5160ede97f6b21120a890b2e02d4699c9344d2",
+    "original_sha256": "b5cecb7da254ac511868d53ecb27355f07b657378dfb7c781f4b95fcfb3e30e4",
+    "bytes": 15941,
+    "source": "snapshot di sessione locale rollout-2026-10-02T14-52-48-01a0fcac-a53f-7b43-be8b-7cf665e8220b",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-03T01-34-33-01a0fef8-2fe9-7ed1-840c-2c7055e8805d_efcec1b140.md",
+    "sha256": "efcec1b1403a2e8ef86333fd3863e62b3432d9351f50d52a5b5d2eba722bc7a9",
+    "original_sha256": "a86ed536a706608f9d59151db798c6e94ee1feba5f76e5c5cee50b3346bd189d",
+    "bytes": 5712,
+    "source": "snapshot di sessione locale rollout-2026-10-03T01-34-33-01a0fef8-2fe9-7ed1-840c-2c7055e8805d",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-03T05-57-38-01a0ffe9-0e14-7881-b703-23379fdbf7da_e851ce8fa6.md",
+    "sha256": "e851ce8fa6ae270effb06aeadcba753a48f2259028902743c4aa00aa79ef4af7",
+    "original_sha256": "2007e0f60807352f34b214ff7a6c0a8a5c4c131f6dbd9550459fddd194a5f652",
+    "bytes": 5711,
+    "source": "snapshot di sessione locale rollout-2026-10-03T05-57-38-01a0ffe9-0e14-7881-b703-23379fdbf7da",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-03T05-57-51-01a0ffe9-405b-7442-a325-934d0f3bc7ac_16bcd0f51d.md",
+    "sha256": "16bcd0f51d238a3635ea2b4eda04d39c193e655445266f862c85bf737eefd53f",
+    "original_sha256": "679fdc2e2b3567f3bdb44a3a34cabd1c2b9e7b5e973c1f5f3f9fca5187a9aa6c",
+    "bytes": 5711,
+    "source": "snapshot di sessione locale rollout-2026-10-03T05-57-51-01a0ffe9-405b-7442-a325-934d0f3bc7ac",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-03T05-58-04-01a0ffe9-73f2-7a12-9ab1-219a8b60bf4d_ff596872e0.md",
+    "sha256": "ff596872e0cdb5c0deaab511e311ca77313eabba17cf009d1324fb96c46d64a2",
+    "original_sha256": "9e62f76cf580c4fd05584ee91d207deb297aca217207b02520b8330c4000a52d",
+    "bytes": 5711,
+    "source": "snapshot di sessione locale rollout-2026-10-03T05-58-04-01a0ffe9-73f2-7a12-9ab1-219a8b60bf4d",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-03T06-03-04-01a0ffee-04f2-7dd0-85c1-863cfa3a099f_1f96fead30.md",
+    "sha256": "1f96fead3080bfb2ea1f2cb4b5e3cbb7c21389315c93b97377e8dd39b3dd7b4c",
+    "original_sha256": "820deca66d8d58df92ab02c432434e50fe506fd18dc84c13334081ebe57350cd",
+    "bytes": 5711,
+    "source": "snapshot di sessione locale rollout-2026-10-03T06-03-04-01a0ffee-04f2-7dd0-85c1-863cfa3a099f",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
+  },
+  {
+    "file": "03 CONVERSAZIONI/Sessioni recenti/rollout-2026-10-11T21-27-03-01a12c6e-d398-7c43-becf-675f08add47a_50066a9737.md",
+    "sha256": "50066a97379ce781bb9a97dc9445000aaff61325477a79701fd063f21850f089",
+    "original_sha256": "0d7e02eda56ce5123ba003ad243bf214f7dd2c61d6b24b7b097ea15be6408885",
+    "bytes": 4711,
+    "source": "snapshot di sessione locale rollout-2026-10-11T21-27-03-01a12c6e-d398-7c43-becf-675f08add47a",
+    "representation": "passaggi tematici, ruoli conservati, copia pubblicabile"
   }
 ]
