@@ -1,0 +1,30 @@
+<svg viewBox="0 0 534 88" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grpe" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#b91c1c" stop-opacity=".15"/>
+      <stop offset="100%" stop-color="#b91c1c" stop-opacity=".02"/>
+    </linearGradient>
+  </defs>
+  <line x1="48" y1="6" x2="48" y2="72" stroke="#bbb" stroke-width=".6"/>
+  <line x1="48" y1="72" x2="524" y2="72" stroke="#bbb" stroke-width=".6"/>
+  <line x1="48" y1="42" x2="524" y2="42" stroke="#ebebeb" stroke-width=".5" stroke-dasharray="3,3"/>
+  <line x1="140" y1="6" x2="140" y2="72" stroke="#eee" stroke-width=".5"/>
+  <line x1="232" y1="6" x2="232" y2="72" stroke="#eee" stroke-width=".5"/>
+  <line x1="324" y1="6" x2="324" y2="72" stroke="#eee" stroke-width=".5"/>
+  <line x1="416" y1="6" x2="416" y2="72" stroke="#eee" stroke-width=".5"/>
+  <text x="94"  y="82" font-family="Inter,sans-serif" font-size="5.5" fill="#555" text-anchor="middle">Ideazione</text>
+  <text x="186" y="82" font-family="Inter,sans-serif" font-size="5.5" fill="#555" text-anchor="middle">Architettura</text>
+  <text x="278" y="82" font-family="Inter,sans-serif" font-size="5.5" fill="#555" text-anchor="middle">Impl. core</text>
+  <text x="370" y="82" font-family="Inter,sans-serif" font-size="5.5" fill="#555" text-anchor="middle">Debug</text>
+  <text x="470" y="82" font-family="Inter,sans-serif" font-size="5.5" fill="#b91c1c" font-weight="700" text-anchor="middle">Deploy ⚠ triplice trappola</text>
+  <path d="M48,66 C68,56 88,18 140,9 C172,3 200,6 232,14 C262,22 274,36 324,48 C358,56 392,64 416,67 C444,70 478,71 524,72 L524,72 L48,72 Z" fill="url(#grpe)"/>
+  <path d="M48,66 C68,56 88,18 140,9 C172,3 200,6 232,14 C262,22 274,36 324,48 C358,56 392,64 416,67 C444,70 478,71 524,72" fill="none" stroke="#b91c1c" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M48,71 C68,68 94,48 140,30 C168,18 198,14 232,20 C262,27 278,42 324,54 C356,62 390,68 416,70 C444,72 478,72 524,72" fill="none" stroke="#1d4ed8" stroke-width="1.1" stroke-dasharray="4,2.5" stroke-linecap="round"/>
+  <rect x="370" y="6" width="154" height="66" fill="rgba(185,28,28,0.04)"/>
+  <circle cx="140" cy="9" r="2.2" fill="none" stroke="#b91c1c" stroke-width="1"/>
+  <text x="140" y="5" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle" font-weight="700">PICCO RPE</text>
+  <line x1="54" y1="14" x2="66" y2="14" stroke="#b91c1c" stroke-width="1.6"/>
+  <text x="69" y="17" font-family="Inter,sans-serif" font-size="5.2" fill="#333">Stimolazione dopaminergica (RPE)</text>
+  <line x1="54" y1="22" x2="66" y2="22" stroke="#1d4ed8" stroke-width="1.1" stroke-dasharray="4,2.5"/>
+  <text x="69" y="25" font-family="Inter,sans-serif" font-size="5.2" fill="#333">Performance reale</text>
+</svg>

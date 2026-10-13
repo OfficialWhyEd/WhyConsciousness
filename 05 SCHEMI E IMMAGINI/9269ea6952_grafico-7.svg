@@ -1,0 +1,29 @@
+<svg viewBox="0 0 210 100" xmlns="http://www.w3.org/2000/svg">
+          <rect width="210" height="100" fill="#0a0a14" rx="3"/>
+          <text x="105" y="13" text-anchor="middle" font-family="Inter,sans-serif" font-size="6.5" font-weight="700" fill="#15803d" letter-spacing="0.06">WHYCREMISI — GENESI WIN → MAC</text>
+
+          <!-- WIN phase -->
+          <rect x="8" y="22" width="88" height="60" rx="3" fill="#0d0d1a" stroke="#ff4444" stroke-width="0.8"/>
+          <text x="52" y="34" text-anchor="middle" font-family="Inter,sans-serif" font-size="6" font-weight="700" fill="#ff4444">ERA WINDOWS</text>
+          <text x="52" y="43" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#888">C++/JUCE + OSC definita</text>
+          <text x="52" y="51" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#888">WebViewBridge archi.</text>
+          <text x="52" y="59" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#888">repo Progetti-Condivisi-Carlo</text>
+          <text x="52" y="67" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#888">Aura (Carlo) collabora</text>
+          <text x="52" y="75" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#888">Tele-Monitor · Slow AI</text>
+
+          <!-- Arrow -->
+          <polygon points="100,52 108,48 108,56" fill="#FFD700"/>
+          <line x1="96" y1="52" x2="108" y2="52" stroke="#FFD700" stroke-width="1.5"/>
+          <text x="104" y="45" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#FFD700">migrazione</text>
+
+          <!-- MAC phase -->
+          <rect x="112" y="22" width="90" height="60" rx="3" fill="#0d1a0d" stroke="#15803d" stroke-width="0.8"/>
+          <text x="157" y="34" text-anchor="middle" font-family="Inter,sans-serif" font-size="6" font-weight="700" fill="#22c55e">ERA MAC</text>
+          <text x="157" y="43" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#888">Claude Code come agente</text>
+          <text x="157" y="51" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#888">branch heartbroken-claude</text>
+          <text x="157" y="59" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#888">BotFace (mascot SVG)</text>
+          <text x="157" y="67" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#888">OSC → React WebView</text>
+          <text x="157" y="75" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#888">github.com/OfficialWhyEd</text>
+
+          <text x="105" y="94" text-anchor="middle" font-family="Inter,sans-serif" font-size="4.5" fill="#444">Il progetto attraversa la migrazione: l'architettura Win diventa la base Mac</text>
+        </svg>

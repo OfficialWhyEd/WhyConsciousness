@@ -1,0 +1,31 @@
+<svg viewBox="0 0 260 96" xmlns="http://www.w3.org/2000/svg">
+  <!-- asse X: giorni 6 maggio - 3 giugno (28 giorni) -->
+  <line x1="20" y1="80" x2="248" y2="80" stroke="#bbb" stroke-width=".7"/>
+  <line x1="20" y1="10" x2="20" y2="80" stroke="#ccc" stroke-width=".6"/>
+  <!-- barre temi ricorrenti -->
+  <!-- memory reset -->
+  <rect x="22" y="48" width="40" height="32" fill="#b91c1c" opacity=".65" rx=".4"/>
+  <text x="42" y="45" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">11</text>
+  <!-- friend intro -->
+  <rect x="72" y="52" width="40" height="28" fill="#1d4ed8" opacity=".6" rx=".4"/>
+  <text x="92" y="49" font-family="Inter,sans-serif" font-size="4.5" fill="#1d4ed8" text-anchor="middle">7</text>
+  <!-- auth/music -->
+  <rect x="122" y="62" width="40" height="18" fill="#15803d" opacity=".65" rx=".4"/>
+  <text x="142" y="59" font-family="Inter,sans-serif" font-size="4.5" fill="#15803d" text-anchor="middle">6</text>
+  <!-- #000000 -->
+  <rect x="172" y="68" width="40" height="12" fill="#444" opacity=".55" rx=".4"/>
+  <text x="192" y="65" font-family="Inter,sans-serif" font-size="4.5" fill="#444" text-anchor="middle">4</text>
+  <!-- etichette asse X -->
+  <text x="42" y="88" font-family="Inter,sans-serif" font-size="4" fill="#888" text-anchor="middle">reset memoria</text>
+  <text x="92" y="88" font-family="Inter,sans-serif" font-size="4" fill="#888" text-anchor="middle">intro amici</text>
+  <text x="142" y="88" font-family="Inter,sans-serif" font-size="4" fill="#888" text-anchor="middle">auth/musica</text>
+  <text x="192" y="88" font-family="Inter,sans-serif" font-size="4" fill="#888" text-anchor="middle">#000000 vuoto</text>
+  <text x="222" y="55" font-family="Inter,sans-serif" font-size="4" fill="#888" text-anchor="middle">n entries</text>
+  <!-- asse Y numeri -->
+  <text x="15" y="82" font-family="Inter,sans-serif" font-size="4" fill="#aaa" text-anchor="end">0</text>
+  <text x="15" y="66" font-family="Inter,sans-serif" font-size="4" fill="#aaa" text-anchor="end">4</text>
+  <text x="15" y="50" font-family="Inter,sans-serif" font-size="4" fill="#aaa" text-anchor="end">8</text>
+  <text x="15" y="30" font-family="Inter,sans-serif" font-size="4" fill="#aaa" text-anchor="end">12</text>
+  <line x1="18" y1="66" x2="248" y2="66" stroke="#eee" stroke-width=".5" stroke-dasharray="3,3"/>
+  <line x1="18" y1="50" x2="248" y2="50" stroke="#eee" stroke-width=".5" stroke-dasharray="3,3"/>
+</svg>

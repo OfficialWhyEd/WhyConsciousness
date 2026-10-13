@@ -1,0 +1,24 @@
+<svg viewBox="0 0 262 192" xmlns="http://www.w3.org/2000/svg">
+  <text x="131" y="12" font-family="Inter,sans-serif" font-size="6.5" fill="#888" text-anchor="middle" font-style="italic">Profilo neuropsicologico stimato (0–100)</text>
+  <circle cx="131" cy="106" r="72" fill="none" stroke="#eee" stroke-width=".7"/>
+  <circle cx="131" cy="106" r="48" fill="none" stroke="#eee" stroke-width=".7"/>
+  <circle cx="131" cy="106" r="24" fill="none" stroke="#eee" stroke-width=".7"/>
+  <line x1="131" y1="106" x2="131" y2="34"  stroke="#ddd" stroke-width=".5"/>
+  <line x1="131" y1="106" x2="200" y2="83"  stroke="#ddd" stroke-width=".5"/>
+  <line x1="131" y1="106" x2="173" y2="165" stroke="#ddd" stroke-width=".5"/>
+  <line x1="131" y1="106" x2="89"  y2="165" stroke="#ddd" stroke-width=".5"/>
+  <line x1="131" y1="106" x2="62"  y2="83"  stroke="#ddd" stroke-width=".5"/>
+  <text x="131" y="29"  font-family="Inter,sans-serif" font-size="5.2" fill="#555" text-anchor="middle">Sensib. dopaminergica</text>
+  <text x="207" y="81"  font-family="Inter,sans-serif" font-size="5.2" fill="#555" text-anchor="start">Iperfocus</text>
+  <text x="175" y="176" font-family="Inter,sans-serif" font-size="5.2" fill="#555" text-anchor="middle">Mem. lavoro esterna</text>
+  <text x="87"  y="176" font-family="Inter,sans-serif" font-size="5.2" fill="#555" text-anchor="middle">Coscienziost.</text>
+  <text x="55"  y="81"  font-family="Inter,sans-serif" font-size="5.2" fill="#555" text-anchor="end">Ctrl prefrontale</text>
+  <polygon points="131,38 189,86 142,124 118,122 101,97" fill="rgba(185,28,28,0.13)" stroke="#b91c1c" stroke-width="1.1"/>
+  <circle cx="131" cy="38"  r="2.2" fill="#b91c1c"/>
+  <circle cx="189" cy="86"  r="2.2" fill="#b91c1c"/>
+  <circle cx="142" cy="124" r="2.2" fill="#b91c1c"/>
+  <circle cx="118" cy="122" r="2.2" fill="#b91c1c"/>
+  <circle cx="101" cy="97"  r="2.2" fill="#b91c1c"/>
+  <text x="133" y="84" font-family="Inter,sans-serif" font-size="4.2" fill="#ccc">50</text>
+  <text x="133" y="60" font-family="Inter,sans-serif" font-size="4.2" fill="#ccc">75</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg viewBox="0 0 262 92" xmlns="http://www.w3.org/2000/svg">
+  <line x1="28" y1="6" x2="28" y2="76" stroke="#ccc" stroke-width=".6"/>
+  <line x1="28" y1="76" x2="258" y2="76" stroke="#bbb" stroke-width=".7"/>
+  <line x1="28" y1="76" x2="28" y2="76" stroke="none"/>
+  <!-- asse X: giorni 1-26 -->
+  <!-- cluster 1: giorni 1-3 (08-09 maggio) -->
+  <rect x="30" y="42" width="8" height="34" fill="#b91c1c" opacity=".7" rx=".3"/>
+  <rect x="40" y="30" width="8" height="46" fill="#b91c1c" opacity=".85" rx=".3"/>
+  <rect x="50" y="52" width="8" height="24" fill="#b91c1c" opacity=".6" rx=".3"/>
+  <!-- pausa -->
+  <rect x="60" y="68" width="8" height="8" fill="#ccc" opacity=".4" rx=".3"/>
+  <rect x="70" y="66" width="8" height="10" fill="#ccc" opacity=".4" rx=".3"/>
+  <!-- cluster 2: giorni 6-8 (13-15 maggio) -->
+  <rect x="80" y="36" width="8" height="40" fill="#b91c1c" opacity=".78" rx=".3"/>
+  <rect x="90" y="28" width="8" height="48" fill="#b91c1c" opacity=".9" rx=".3"/>
+  <rect x="100" y="44" width="8" height="32" fill="#b91c1c" opacity=".65" rx=".3"/>
+  <rect x="110" y="58" width="8" height="18" fill="#b91c1c" opacity=".5" rx=".3"/>
+  <!-- pausa lunga -->
+  <rect x="120" y="70" width="8" height="6" fill="#ccc" opacity=".35" rx=".3"/>
+  <rect x="130" y="72" width="8" height="4" fill="#ccc" opacity=".3" rx=".3"/>
+  <rect x="140" y="70" width="8" height="6" fill="#ccc" opacity=".35" rx=".3"/>
+  <rect x="150" y="68" width="8" height="8" fill="#ccc" opacity=".38" rx=".3"/>
+  <!-- cluster 3: giorni 15-18 (22-25 maggio) -->
+  <rect x="160" y="32" width="8" height="44" fill="#b91c1c" opacity=".82" rx=".3"/>
+  <rect x="170" y="24" width="8" height="52" fill="#b91c1c" opacity=".92" rx=".3"/>
+  <rect x="180" y="38" width="8" height="38" fill="#b91c1c" opacity=".72" rx=".3"/>
+  <rect x="190" y="54" width="8" height="22" fill="#b91c1c" opacity=".55" rx=".3"/>
+  <!-- tail -->
+  <rect x="200" y="62" width="8" height="14" fill="#b45309" opacity=".5" rx=".3"/>
+  <rect x="210" y="66" width="8" height="10" fill="#b45309" opacity=".45" rx=".3"/>
+  <rect x="220" y="70" width="8" height="6" fill="#888" opacity=".4" rx=".3"/>
+  <!-- cornettino marker -->
+  <circle cx="34" cy="10" r="4" fill="#15803d" opacity=".9"/>
+  <text x="40" y="8" font-family="Inter,sans-serif" font-size="4.5" fill="#15803d" font-weight="700">cornettino</text>
+  <text x="40" y="13" font-family="Inter,sans-serif" font-size="4" fill="#15803d">unico shipped</text>
+  <!-- labels cluster -->
+  <text x="44" y="88" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">Cluster I</text>
+  <text x="95" y="88" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">Cluster II</text>
+  <text x="175" y="88" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">Cluster III</text>
+  <text x="135" y="88" font-family="Inter,sans-serif" font-size="4" fill="#888" text-anchor="middle">pausa relativa</text>
+</svg>

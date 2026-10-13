@@ -1,0 +1,27 @@
+<svg viewBox="0 0 262 88" xmlns="http://www.w3.org/2000/svg">
+  <line x1="24" y1="6" x2="24" y2="72" stroke="#ccc" stroke-width=".6"/>
+  <line x1="24" y1="72" x2="258" y2="72" stroke="#bbb" stroke-width=".7"/>
+  <!-- 6 cicli escalativi, barre crescenti -->
+  <rect x="28" y="52" width="28" height="20" fill="#aaa" opacity=".5" rx=".4"/>
+  <text x="42" y="80" font-family="Inter,sans-serif" font-size="4.5" fill="#666" text-anchor="middle">Ciclo 1</text>
+  <text x="42" y="50" font-family="Inter,sans-serif" font-size="4.5" fill="#666" text-anchor="middle">PIU LUNGO</text>
+  <rect x="60" y="42" width="28" height="30" fill="#b45309" opacity=".6" rx=".4"/>
+  <text x="74" y="80" font-family="Inter,sans-serif" font-size="4.5" fill="#b45309" text-anchor="middle">Ciclo 2</text>
+  <text x="74" y="40" font-family="Inter,sans-serif" font-size="4.5" fill="#b45309" text-anchor="middle">PIU LUNGA</text>
+  <rect x="92" y="30" width="28" height="42" fill="#b91c1c" opacity=".62" rx=".4"/>
+  <text x="106" y="80" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">Ciclo 3</text>
+  <text x="106" y="28" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">MIGLIORE</text>
+  <rect x="124" y="18" width="28" height="54" fill="#b91c1c" opacity=".72" rx=".4"/>
+  <text x="138" y="80" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">Ciclo 4</text>
+  <text x="138" y="16" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">METTICI TUTTO</text>
+  <rect x="156" y="10" width="28" height="62" fill="#b91c1c" opacity=".82" rx=".4"/>
+  <text x="170" y="80" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">Ciclo 5</text>
+  <text x="170" y="8" font-family="Inter,sans-serif" font-size="4.2" fill="#b91c1c" text-anchor="middle">LONGHISSIMOOOO</text>
+  <rect x="188" y="6" width="28" height="66" fill="#b91c1c" opacity=".92" rx=".4"/>
+  <text x="202" y="80" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">Ciclo 6</text>
+  <text x="202" y="4" font-family="Inter,sans-serif" font-size="4.2" fill="#b91c1c" text-anchor="middle">MA CHE CAZZO FAI</text>
+  <!-- specificity line (flat) -->
+  <line x1="24" y1="66" x2="220" y2="66" stroke="#1d4ed8" stroke-width="1" stroke-dasharray="3,2"/>
+  <text x="225" y="68" font-family="Inter,sans-serif" font-size="4.5" fill="#1d4ed8">specificità</text>
+  <text x="225" y="75" font-family="Inter,sans-serif" font-size="4.5" fill="#1d4ed8">(invariante)</text>
+</svg>

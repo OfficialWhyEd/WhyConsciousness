@@ -1,0 +1,23 @@
+<svg viewBox="0 0 262 110" xmlns="http://www.w3.org/2000/svg">
+  <!-- radar chart: identità artistica -->
+  <text x="131" y="10" font-family="Inter,sans-serif" font-size="6" fill="#888" text-anchor="middle" font-style="italic">Profilo identitario WhyEd (stima comportamentale)</text>
+  <circle cx="131" cy="62" r="48" fill="none" stroke="#eee" stroke-width=".7"/>
+  <circle cx="131" cy="62" r="32" fill="none" stroke="#eee" stroke-width=".7"/>
+  <circle cx="131" cy="62" r="16" fill="none" stroke="#eee" stroke-width=".7"/>
+  <line x1="131" y1="62" x2="131" y2="14" stroke="#ddd" stroke-width=".5"/>
+  <line x1="131" y1="62" x2="172" y2="86" stroke="#ddd" stroke-width=".5"/>
+  <line x1="131" y1="62" x2="90" y2="86" stroke="#ddd" stroke-width=".5"/>
+  <line x1="131" y1="62" x2="172" y2="38" stroke="#ddd" stroke-width=".5"/>
+  <line x1="131" y1="62" x2="90" y2="38" stroke="#ddd" stroke-width=".5"/>
+  <text x="131" y="11" font-family="Inter,sans-serif" font-size="5" fill="#444" text-anchor="middle">Ownership</text>
+  <text x="180" y="90" font-family="Inter,sans-serif" font-size="5" fill="#444" text-anchor="start">Sperimentaz.</text>
+  <text x="82" y="90" font-family="Inter,sans-serif" font-size="5" fill="#444" text-anchor="end">Autenticità</text>
+  <text x="180" y="36" font-family="Inter,sans-serif" font-size="5" fill="#444" text-anchor="start">Branding</text>
+  <text x="82" y="36" font-family="Inter,sans-serif" font-size="5" fill="#444" text-anchor="end">Connessione</text>
+  <polygon points="131,18 164,80 96,80 164,44 98,44" fill="rgba(185,28,28,0.12)" stroke="#b91c1c" stroke-width="1.1"/>
+  <circle cx="131" cy="18" r="2" fill="#b91c1c"/>
+  <circle cx="164" cy="80" r="2" fill="#b91c1c"/>
+  <circle cx="96"  cy="80" r="2" fill="#b91c1c"/>
+  <circle cx="164" cy="44" r="2" fill="#b91c1c"/>
+  <circle cx="98"  cy="44" r="2" fill="#b91c1c"/>
+</svg>

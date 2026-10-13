@@ -1,0 +1,37 @@
+<svg viewBox="0 0 210 170" xmlns="http://www.w3.org/2000/svg">
+          <rect width="210" height="170" fill="#fafafa" rx="3"/>
+          <text x="105" y="14" text-anchor="middle" font-family="Inter,sans-serif" font-size="7" font-weight="700" fill="#b91c1c" letter-spacing="0.06">PROFILO FUNZIONI ESECUTIVE</text>
+
+          <!-- radar chart -->
+          <g transform="translate(105,97)">
+            <!-- axes (6 axes) -->
+            <line x1="0" y1="-55" x2="0" y2="55" stroke="#e0e0e0" stroke-width="0.5"/>
+            <line x1="-47.6" y1="-27.5" x2="47.6" y2="27.5" stroke="#e0e0e0" stroke-width="0.5"/>
+            <line x1="-47.6" y1="27.5" x2="47.6" y2="-27.5" stroke="#e0e0e0" stroke-width="0.5"/>
+            <!-- concentric hexagons -->
+            <polygon points="0,-55 47.6,-27.5 47.6,27.5 0,55 -47.6,27.5 -47.6,-27.5" fill="none" stroke="#ddd" stroke-width="0.5"/>
+            <polygon points="0,-41.25 35.7,-20.6 35.7,20.6 0,41.25 -35.7,20.6 -35.7,-20.6" fill="none" stroke="#ddd" stroke-width="0.5"/>
+            <polygon points="0,-27.5 23.8,-13.75 23.8,13.75 0,27.5 -23.8,13.75 -23.8,-13.75" fill="none" stroke="#ddd" stroke-width="0.5"/>
+            <polygon points="0,-13.75 11.9,-6.9 11.9,6.9 0,13.75 -11.9,6.9 -11.9,-6.9" fill="none" stroke="#ddd" stroke-width="0.5"/>
+            <!-- data: Flessibilità(0.9), Memoria lavoro(0.8), Velocità(0.85), Controllo inibitorio(0.45), Perseveranza(0.35), Planning(0.65) -->
+            <!-- 0: top (Flessibilità 0.9) = 0, -49.5 -->
+            <!-- 1: top-right (Memoria Lavoro 0.8) = 38.1, -22.0 -->
+            <!-- 2: bottom-right (Velocità 0.85) = 40.5, 23.4 -->
+            <!-- 3: bottom (Perseveranza 0.35) = 0, 19.25 -->
+            <!-- 4: bottom-left (Controllo inibit. 0.45) = -24.8, 13.9 -->
+            <!-- 5: top-left (Planning 0.65) = -30.9, -17.9 -->
+            <polygon points="0,-49.5 38.1,-22.0 40.5,23.4 0,19.25 -24.8,13.9 -30.9,-17.9" fill="#b91c1c" fill-opacity="0.2" stroke="#b91c1c" stroke-width="1.5"/>
+            <!-- labels -->
+            <text x="0" y="-60" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#333">Flessibilità</text>
+            <text x="52" y="-25" font-family="Inter,sans-serif" font-size="5.5" fill="#333">Memoria</text>
+            <text x="52" y="-18" font-family="Inter,sans-serif" font-size="5.5" fill="#333">di lavoro</text>
+            <text x="52" y="25" font-family="Inter,sans-serif" font-size="5.5" fill="#333">Velocità</text>
+            <text x="52" y="32" font-family="Inter,sans-serif" font-size="5.5" fill="#333">elaboraz.</text>
+            <text x="0" y="70" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#333">Perseveranza</text>
+            <text x="-78" y="18" font-family="Inter,sans-serif" font-size="5.5" fill="#333">Controllo</text>
+            <text x="-78" y="25" font-family="Inter,sans-serif" font-size="5.5" fill="#333">inibitorio</text>
+            <text x="-78" y="-18" font-family="Inter,sans-serif" font-size="5.5" fill="#333">Planning</text>
+            <text x="-78" y="-11" font-family="Inter,sans-serif" font-size="5.5" fill="#333">a lungo</text>
+          </g>
+          <text x="105" y="163" text-anchor="middle" font-family="Crimson Pro,serif" font-size="6" font-style="italic" fill="#999">Stima basata su pattern comportamentali osservati — non assessment clinico</text>
+        </svg>

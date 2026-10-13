@@ -1,0 +1,23 @@
+<svg viewBox="0 0 260 88" xmlns="http://www.w3.org/2000/svg">
+  <!-- bimodal distribution of session length -->
+  <line x1="20" y1="75" x2="248" y2="75" stroke="#bbb" stroke-width=".7"/>
+  <line x1="20" y1="10" x2="20" y2="75" stroke="#ccc" stroke-width=".6"/>
+  <!-- curva bimodale: picco 1 (sessioni brevi 5-15') e picco 2 (sessioni lunghe 90-240') -->
+  <polyline points="22,73 35,68 48,48 58,30 65,22 72,30 80,50 88,62 100,68 115,65 130,60 145,50 158,40 168,34 178,38 188,48 198,58 210,66 222,72 235,74 248,75" fill="none" stroke="#b91c1c" stroke-width="1.2"/>
+  <!-- area sotto curva 1 -->
+  <path d="M22,73 35,68 48,48 58,30 65,22 72,30 80,50 88,62 100,68 100,75 Z" fill="#b91c1c" opacity=".1"/>
+  <!-- area sotto curva 2 -->
+  <path d="M100,68 115,65 130,60 145,50 158,40 168,34 178,38 188,48 198,58 210,66 222,72 235,74 235,75 100,75 Z" fill="#1d4ed8" opacity=".08"/>
+  <!-- labels -->
+  <text x="65" y="16" font-family="Inter,sans-serif" font-size="5" fill="#b91c1c" text-anchor="middle">brainstorming</text>
+  <text x="65" y="21" font-family="Inter,sans-serif" font-size="4" fill="#b91c1c" text-anchor="middle">5–15 min (75%)</text>
+  <text x="168" y="28" font-family="Inter,sans-serif" font-size="5" fill="#1d4ed8" text-anchor="middle">implementazione</text>
+  <text x="168" y="33" font-family="Inter,sans-serif" font-size="4" fill="#1d4ed8" text-anchor="middle">90–240 min (25%)</text>
+  <!-- asse X labels -->
+  <text x="48" y="83" font-family="Inter,sans-serif" font-size="4" fill="#aaa" text-anchor="middle">10min</text>
+  <text x="130" y="83" font-family="Inter,sans-serif" font-size="4" fill="#aaa" text-anchor="middle">60min</text>
+  <text x="200" y="83" font-family="Inter,sans-serif" font-size="4" fill="#aaa" text-anchor="middle">180min</text>
+  <!-- ratio marker -->
+  <line x1="100" y1="10" x2="100" y2="75" stroke="#888" stroke-width=".5" stroke-dasharray="2,2"/>
+  <text x="100" y="8" font-family="Inter,sans-serif" font-size="4" fill="#888" text-anchor="middle">3:1</text>
+</svg>

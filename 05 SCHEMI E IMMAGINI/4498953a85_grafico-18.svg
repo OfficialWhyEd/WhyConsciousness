@@ -1,0 +1,29 @@
+<svg viewBox="0 0 262 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- confronto radar: Edoardo vs. profilo ADHD clinico vs. profilo standard -->
+  <text x="131" y="9" font-family="Inter,sans-serif" font-size="5.5" fill="#888" text-anchor="middle" font-style="italic">Profilo comparativo (stime; non costituisce diagnosi)</text>
+  <circle cx="131" cy="58" r="42" fill="none" stroke="#eee" stroke-width=".6"/>
+  <circle cx="131" cy="58" r="28" fill="none" stroke="#eee" stroke-width=".6"/>
+  <circle cx="131" cy="58" r="14" fill="none" stroke="#eee" stroke-width=".6"/>
+  <line x1="131" y1="58" x2="131" y2="16" stroke="#ddd" stroke-width=".4"/>
+  <line x1="131" y1="58" x2="167" y2="79" stroke="#ddd" stroke-width=".4"/>
+  <line x1="131" y1="58" x2="95" y2="79" stroke="#ddd" stroke-width=".4"/>
+  <line x1="131" y1="58" x2="167" y2="37" stroke="#ddd" stroke-width=".4"/>
+  <line x1="131" y1="58" x2="95" y2="37" stroke="#ddd" stroke-width=".4"/>
+  <text x="131" y="13" font-family="Inter,sans-serif" font-size="4.8" fill="#555" text-anchor="middle">Creatività</text>
+  <text x="175" y="82" font-family="Inter,sans-serif" font-size="4.8" fill="#555">Tecnica</text>
+  <text x="86" y="82" font-family="Inter,sans-serif" font-size="4.8" fill="#555" text-anchor="end">Deploy</text>
+  <text x="175" y="34" font-family="Inter,sans-serif" font-size="4.8" fill="#555">Iperfocus</text>
+  <text x="86" y="34" font-family="Inter,sans-serif" font-size="4.8" fill="#555" text-anchor="end">Struttura</text>
+  <!-- Edoardo: alta creatività, alta tecnica, basso deploy, alto iperfocus, bassa struttura -->
+  <polygon points="131,20 162,72 103,72 157,40 105,40" fill="rgba(185,28,28,0.14)" stroke="#b91c1c" stroke-width="1.1"/>
+  <!-- ADHD clinico: alta creatività, media tecnica, basso deploy, alto iperfocus, bassissima struttura -->
+  <polygon points="131,16 148,75 114,75 152,42 110,42" fill="rgba(29,78,216,0.08)" stroke="#1d4ed8" stroke-width=".8" stroke-dasharray="3,2"/>
+  <!-- profilo medio: media tutto -->
+  <polygon points="131,44 148,66 114,66 148,50 114,50" fill="rgba(0,0,0,0.04)" stroke="#aaa" stroke-width=".6" stroke-dasharray="1,2"/>
+  <line x1="28" y1="20" x2="40" y2="20" stroke="#b91c1c" stroke-width="1.1"/>
+  <text x="43" y="23" font-family="Inter,sans-serif" font-size="5" fill="#333">Edoardo (stimato)</text>
+  <line x1="28" y1="28" x2="40" y2="28" stroke="#1d4ed8" stroke-width=".8" stroke-dasharray="3,2"/>
+  <text x="43" y="31" font-family="Inter,sans-serif" font-size="5" fill="#333">ADHD alto funzion. (letteratura)</text>
+  <line x1="28" y1="36" x2="40" y2="36" stroke="#aaa" stroke-width=".6" stroke-dasharray="1,2"/>
+  <text x="43" y="39" font-family="Inter,sans-serif" font-size="5" fill="#333">Profilo medio</text>
+</svg>

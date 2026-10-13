@@ -1,0 +1,20 @@
+<svg viewBox="0 0 262 96" xmlns="http://www.w3.org/2000/svg">
+  <line x1="24" y1="6" x2="24" y2="80" stroke="#ccc" stroke-width=".6"/>
+  <line x1="24" y1="80" x2="258" y2="80" stroke="#bbb" stroke-width=".7"/>
+  <!-- timeline: 6 anni (studio base) → 14-20 (Londra) → 2020 stop → 2022 album → 2026 AI -->
+  <rect x="24" y="48" width="48" height="14" fill="#b91c1c" opacity=".55" rx=".5"/>
+  <text x="48" y="72" font-family="Inter,sans-serif" font-size="4.8" fill="#b91c1c" text-anchor="middle">6–14 anni</text>
+  <text x="48" y="46" font-family="Inter,sans-serif" font-size="4.5" fill="#888" text-anchor="middle">Formazione base</text>
+  <rect x="74" y="30" width="64" height="32" fill="#b91c1c" opacity=".82" rx=".5"/>
+  <text x="106" y="72" font-family="Inter,sans-serif" font-size="4.8" fill="#b91c1c" text-anchor="middle">14–20 (Londra)</text>
+  <text x="106" y="28" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" font-weight="700" text-anchor="middle">6 estati produzione</text>
+  <rect x="140" y="52" width="28" height="10" fill="#888" opacity=".4" rx=".5"/>
+  <text x="154" y="72" font-family="Inter,sans-serif" font-size="4.8" fill="#888" text-anchor="middle">2020–21</text>
+  <text x="154" y="50" font-family="Inter,sans-serif" font-size="4.5" fill="#888" text-anchor="middle">COVID stop</text>
+  <rect x="170" y="42" width="28" height="20" fill="#15803d" opacity=".72" rx=".5"/>
+  <text x="184" y="72" font-family="Inter,sans-serif" font-size="4.8" fill="#15803d" text-anchor="middle">2022</text>
+  <text x="184" y="40" font-family="Inter,sans-serif" font-size="4.5" fill="#15803d" font-weight="700" text-anchor="middle">Album</text>
+  <rect x="200" y="18" width="56" height="44" fill="#b91c1c" opacity=".68" rx=".5"/>
+  <text x="228" y="72" font-family="Inter,sans-serif" font-size="4.8" fill="#b91c1c" text-anchor="middle">2026</text>
+  <text x="228" y="16" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" font-weight="700" text-anchor="middle">AI + Code (oggi)</text>
+</svg>

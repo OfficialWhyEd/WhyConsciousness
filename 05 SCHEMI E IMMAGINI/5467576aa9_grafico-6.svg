@@ -1,0 +1,30 @@
+<svg viewBox="0 0 262 150" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="28,12 135,12 28,122" fill="#f0fdf4" opacity=".75"/>
+  <polygon points="135,12 262,12 262,122 135,122" fill="#fff5f5" opacity=".65"/>
+  <polygon points="72,122 28,80 194,12 238,56" fill="#dbeafe" opacity=".5"/>
+  <line x1="28" y1="122" x2="262" y2="122" stroke="#999" stroke-width=".8"/>
+  <line x1="28" y1="122" x2="28"  y2="12"  stroke="#999" stroke-width=".8"/>
+  <text x="145" y="136" font-family="Inter,sans-serif" font-size="6" fill="#666" text-anchor="middle">sfida percepita →</text>
+  <text x="11"  y="68"  font-family="Inter,sans-serif" font-size="6" fill="#666" transform="rotate(-90,11,68)" text-anchor="middle">competenza →</text>
+  <text x="50"  y="52"  font-family="Inter,sans-serif" font-size="7" fill="#15803d" opacity=".8" text-anchor="middle" transform="rotate(-38,50,52)">NOIA</text>
+  <text x="218" y="106" font-family="Inter,sans-serif" font-size="7" fill="#b91c1c" opacity=".8" text-anchor="middle">ANSIA</text>
+  <text x="144" y="76"  font-family="Inter,sans-serif" font-size="8" fill="#1d4ed8" font-weight="700" text-anchor="middle" transform="rotate(-38,144,76)">FLOW</text>
+  <!-- fasi -->
+  <circle cx="102" cy="50" r="5"   fill="#b91c1c"/>
+  <text x="115" y="48" font-family="Inter,sans-serif" font-size="5.8" fill="#b91c1c" font-weight="600">Architettura</text>
+  <circle cx="128" cy="68" r="4.5" fill="#b91c1c" opacity=".8"/>
+  <text x="141" y="66" font-family="Inter,sans-serif" font-size="5.8" fill="#b91c1c">Impl. core</text>
+  <circle cx="76"  cy="58" r="4"   fill="#1d4ed8" opacity=".7"/>
+  <text x="61"  y="56" font-family="Inter,sans-serif" font-size="5.8" fill="#1d4ed8" text-anchor="end">Ideaz.</text>
+  <!-- deploy nella zona noia, con trappola -->
+  <circle cx="50"  cy="28" r="6"   fill="#888"/>
+  <circle cx="50"  cy="28" r="6"   fill="none" stroke="#b91c1c" stroke-width="1.2" stroke-dasharray="2,1.5"/>
+  <text x="66"  y="26" font-family="Inter,sans-serif" font-size="5.5" fill="#555">Deploy</text>
+  <text x="66"  y="33" font-family="Inter,sans-serif" font-size="4.8" fill="#b91c1c">⚠ triplice trappola</text>
+  <line x1="53" y1="33" x2="72" y2="52" stroke="#aaa" stroke-width=".7" stroke-dasharray="2,2"/>
+  <!-- cornettino: stessa zona, condizioni diverse -->
+  <circle cx="50"  cy="14" r="4.5" fill="#15803d" opacity=".9"/>
+  <text x="58"  y="11" font-family="Inter,sans-serif" font-size="5.2" fill="#15803d" font-weight="700">cornettino ★</text>
+  <text x="58"  y="17" font-family="Inter,sans-serif" font-size="4.5" fill="#15803d">scope fisso + deadline</text>
+  <line x1="50" y1="19" x2="50" y2="22" stroke="#15803d" stroke-width=".8"/>
+</svg>

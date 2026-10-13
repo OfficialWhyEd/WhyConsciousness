@@ -1,0 +1,34 @@
+<svg viewBox="0 0 210 155" xmlns="http://www.w3.org/2000/svg">
+          <rect width="210" height="155" fill="#0a0a14" rx="3"/>
+          <text x="105" y="13" text-anchor="middle" font-family="Inter,sans-serif" font-size="6.5" font-weight="700" fill="#ff4444" letter-spacing="0.06">HEARTBROKEN vs AREA — CONFRONTO SISTEMICO</text>
+
+          <text x="58" y="26" text-anchor="middle" font-family="Inter,sans-serif" font-size="7" font-weight="700" fill="#ff4444">Heartbroken</text>
+          <text x="155" y="26" text-anchor="middle" font-family="Inter,sans-serif" font-size="7" font-weight="700" fill="#b91c1c">Area</text>
+
+          <text x="105" y="37" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#6666aa">HARDWARE</text>
+          <text x="58" y="47" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">i3-3220 · 8GB</text>
+          <text x="155" y="47" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">MBP 2015 · 16GB</text>
+          <line x1="10" y1="51" x2="200" y2="51" stroke="#1a1a3a" stroke-width="0.5"/>
+
+          <text x="105" y="60" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#6666aa">GATEWAY</text>
+          <text x="58" y="70" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">WhatsApp (499)</text>
+          <text x="155" y="70" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">Claude Code CLI</text>
+          <line x1="10" y1="74" x2="200" y2="74" stroke="#1a1a3a" stroke-width="0.5"/>
+
+          <text x="105" y="83" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#6666aa">FILOSOFIA</text>
+          <text x="58" y="93" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">Antigravity</text>
+          <text x="155" y="93" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">Extended Mind</text>
+          <line x1="10" y1="97" x2="200" y2="97" stroke="#1a1a3a" stroke-width="0.5"/>
+
+          <text x="105" y="106" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#6666aa">ELABORAZIONE NOTTURNA</text>
+          <text x="58" y="116" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">nessuna</text>
+          <text x="155" y="116" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">Dream Diary 65+</text>
+          <line x1="10" y1="120" x2="200" y2="120" stroke="#1a1a3a" stroke-width="0.5"/>
+
+          <text x="105" y="129" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#6666aa">IDENTITÀ</text>
+          <text x="58" y="139" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">il soldato</text>
+          <text x="155" y="139" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">l'anima</text>
+          <line x1="10" y1="143" x2="200" y2="143" stroke="#1a1a3a" stroke-width="0.5"/>
+
+          <text x="105" y="152" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#6666aa">COMUNE: WhyCremisi · Filosofia memoria · Moltbook aperto</text>
+        </svg>

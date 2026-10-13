@@ -1,0 +1,47 @@
+<svg viewBox="0 0 210 155" xmlns="http://www.w3.org/2000/svg">
+          <rect width="210" height="155" fill="#0a0a14" rx="3"/>
+          <text x="105" y="13" text-anchor="middle" font-family="Inter,sans-serif" font-size="6.5" font-weight="700" fill="#4a4aff" letter-spacing="0.06">MIROFISH — ARCHITETTURA 40 AGENTI</text>
+
+          <!-- Central hub -->
+          <circle cx="105" cy="70" r="20" fill="#0d0d2a" stroke="#4a4aff" stroke-width="1.2"/>
+          <text x="105" y="67" text-anchor="middle" font-family="Inter,sans-serif" font-size="6.5" font-weight="700" fill="#8888ff">MiroFish</text>
+          <text x="105" y="76" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#6666aa">mondo.json</text>
+
+          <!-- 40 agents (represented as clusters) -->
+          <!-- Ottimista -->
+          <circle cx="55" cy="35" r="10" fill="#111" stroke="#FFD700" stroke-width="0.8"/>
+          <text x="55" y="32" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#FFD700">Ottimista</text>
+          <text x="55" y="40" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#666">+8 agenti</text>
+          <line x1="65" y1="43" x2="86" y2="54" stroke="#FFD700" stroke-width="0.5" stroke-dasharray="2,2"/>
+
+          <!-- Statistico -->
+          <circle cx="155" cy="35" r="10" fill="#111" stroke="#4a4aff" stroke-width="0.8"/>
+          <text x="155" y="32" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#8888ff">Statistico</text>
+          <text x="155" y="40" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#666">+8 agenti</text>
+          <line x1="145" y1="43" x2="124" y2="54" stroke="#4a4aff" stroke-width="0.5" stroke-dasharray="2,2"/>
+
+          <!-- Tecnico -->
+          <circle cx="25" cy="80" r="10" fill="#111" stroke="#15803d" stroke-width="0.8"/>
+          <text x="25" y="77" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#22c55e">Tecnico</text>
+          <text x="25" y="85" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#666">+8 agenti</text>
+          <line x1="35" y1="80" x2="85" y2="70" stroke="#15803d" stroke-width="0.5" stroke-dasharray="2,2"/>
+
+          <!-- Strategico -->
+          <circle cx="185" cy="80" r="10" fill="#111" stroke="#b91c1c" stroke-width="0.8"/>
+          <text x="185" y="77" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#fca5a5">Strateg.</text>
+          <text x="185" y="85" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#666">+8 agenti</text>
+          <line x1="175" y1="80" x2="125" y2="70" stroke="#b91c1c" stroke-width="0.5" stroke-dasharray="2,2"/>
+
+          <!-- Altri -->
+          <circle cx="105" cy="120" r="10" fill="#111" stroke="#888" stroke-width="0.8"/>
+          <text x="105" y="117" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#aaa">Altri</text>
+          <text x="105" y="125" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#666">+8 agenti</text>
+          <line x1="105" y1="110" x2="105" y2="90" stroke="#666" stroke-width="0.5" stroke-dasharray="2,2"/>
+
+          <!-- Dynamic selector label -->
+          <rect x="60" y="140" width="90" height="12" rx="2" fill="#1a1a3a" stroke="#4a4aff" stroke-width="0.5"/>
+          <text x="105" y="148" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#8888ff">Selettore Dinamico: 4/40 per turno</text>
+
+          <!-- Total label -->
+          <text x="105" y="155" text-anchor="middle" font-family="Inter,sans-serif" font-size="4.5" fill="#444">40 agenti totali · risparmio CPU · ciclo bayesiano</text>
+        </svg>

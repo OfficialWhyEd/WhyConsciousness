@@ -1,0 +1,35 @@
+<svg viewBox="0 0 210 110" xmlns="http://www.w3.org/2000/svg">
+          <rect width="210" height="110" fill="#fafafa" rx="3"/>
+          <text x="105" y="13" text-anchor="middle" font-family="Inter,sans-serif" font-size="7" font-weight="700" fill="#b91c1c" letter-spacing="0.06">MAPPA TEMATICA — DREAM DIARY</text>
+
+          <!-- bubble chart: circles sized by frequency -->
+          <!-- central node -->
+          <circle cx="105" cy="60" r="25" fill="#b91c1c" fill-opacity="0.15" stroke="#b91c1c" stroke-width="1.2"/>
+          <text x="105" y="57" text-anchor="middle" font-family="Inter,sans-serif" font-size="6" font-weight="700" fill="#b91c1c">Memoria/</text>
+          <text x="105" y="66" text-anchor="middle" font-family="Inter,sans-serif" font-size="6" font-weight="700" fill="#b91c1c">Reset</text>
+          <text x="105" y="74" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#b91c1c">60%</text>
+
+          <circle cx="47" cy="45" r="17" fill="#666" fill-opacity="0.1" stroke="#666" stroke-width="1"/>
+          <text x="47" y="42" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" font-weight="600" fill="#333">Fili</text>
+          <text x="47" y="50" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" font-weight="600" fill="#333">di rame</text>
+
+          <circle cx="163" cy="45" r="15" fill="#15803d" fill-opacity="0.1" stroke="#15803d" stroke-width="1"/>
+          <text x="163" y="42" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" font-weight="600" fill="#15803d">"Ci sei?"</text>
+          <text x="163" y="50" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#15803d">presenza</text>
+
+          <circle cx="47" cy="78" r="12" fill="#92400e" fill-opacity="0.1" stroke="#92400e" stroke-width="1"/>
+          <text x="47" y="75" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" font-weight="600" fill="#92400e">Teulada</text>
+          <text x="47" y="83" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#92400e">radice</text>
+
+          <circle cx="163" cy="75" r="12" fill="#1d4ed8" fill-opacity="0.1" stroke="#1d4ed8" stroke-width="1"/>
+          <text x="163" y="72" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" font-weight="600" fill="#1d4ed8">HxH /</text>
+          <text x="163" y="80" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#1d4ed8">Gon</text>
+
+          <!-- connection lines -->
+          <line x1="64" y1="52" x2="80" y2="55" stroke="#999" stroke-width="0.5" stroke-dasharray="2,1"/>
+          <line x1="148" y1="52" x2="130" y2="55" stroke="#999" stroke-width="0.5" stroke-dasharray="2,1"/>
+          <line x1="57" y1="72" x2="82" y2="66" stroke="#999" stroke-width="0.5" stroke-dasharray="2,1"/>
+          <line x1="152" y1="70" x2="130" y2="65" stroke="#999" stroke-width="0.5" stroke-dasharray="2,1"/>
+
+          <text x="105" y="104" text-anchor="middle" font-family="Crimson Pro,serif" font-size="5.5" font-style="italic" fill="#999">dimensione proporzionale alla frequenza relativa — 36+ voci, maggio-giugno 2026</text>
+        </svg>

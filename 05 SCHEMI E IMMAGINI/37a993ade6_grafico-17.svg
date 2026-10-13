@@ -1,0 +1,21 @@
+<svg viewBox="0 0 262 88" xmlns="http://www.w3.org/2000/svg">
+  <!-- tensione culturale: asse orizzontale collettivo-individuale, asse verticale tradizione-innovazione -->
+  <line x1="131" y1="6" x2="131" y2="82" stroke="#ccc" stroke-width=".6"/>
+  <line x1="28" y1="44" x2="258" y2="44" stroke="#ccc" stroke-width=".6"/>
+  <text x="28" y="42" font-family="Inter,sans-serif" font-size="5" fill="#aaa" text-anchor="start">collettivo</text>
+  <text x="234" y="42" font-family="Inter,sans-serif" font-size="5" fill="#aaa" text-anchor="end">individuale</text>
+  <text x="131" y="10" font-family="Inter,sans-serif" font-size="5" fill="#aaa" text-anchor="middle">innovazione</text>
+  <text x="131" y="86" font-family="Inter,sans-serif" font-size="5" fill="#aaa" text-anchor="middle">tradizione</text>
+  <!-- quadranti -->
+  <text x="76" y="28" font-family="Inter,sans-serif" font-size="5" fill="#888" text-anchor="middle" font-style="italic">Cantu a tenore</text>
+  <text x="186" y="28" font-family="Inter,sans-serif" font-size="5" fill="#b91c1c" text-anchor="middle" font-weight="600">WhyEd</text>
+  <text x="186" y="35" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">musica solista + AI</text>
+  <text x="76" y="62" font-family="Inter,sans-serif" font-size="5" fill="#888" text-anchor="middle" font-style="italic">Folklore sardo</text>
+  <text x="186" y="62" font-family="Inter,sans-serif" font-size="5" fill="#888" text-anchor="middle" font-style="italic">Pop elettronico</text>
+  <!-- freccia tensione -->
+  <line x1="86" y1="30" x2="174" y2="30" stroke="#b91c1c" stroke-width=".8" stroke-dasharray="2,2"/>
+  <polygon points="174,28 178,30 174,32" fill="#b91c1c"/>
+  <text x="130" y="26" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">tensione identitaria</text>
+  <!-- Edoardo point -->
+  <circle cx="186" cy="28" r="4" fill="#b91c1c" opacity=".8"/>
+</svg>

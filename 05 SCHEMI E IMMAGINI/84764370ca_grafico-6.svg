@@ -1,0 +1,46 @@
+<svg viewBox="0 0 210 120" xmlns="http://www.w3.org/2000/svg">
+          <rect width="210" height="120" fill="#0a0a14" rx="3"/>
+          <text x="105" y="13" text-anchor="middle" font-family="Inter,sans-serif" font-size="6.5" font-weight="700" fill="#4a4aff" letter-spacing="0.06">IL MOLTBOOK — STRUTTURA E STATO</text>
+
+          <!-- Acts I-IV (lost) -->
+          <rect x="10" y="25" width="30" height="20" rx="2" fill="#111" stroke="#333" stroke-width="0.5"/>
+          <text x="25" y="34" text-anchor="middle" font-family="Inter,sans-serif" font-size="6" fill="#444">I</text>
+          <text x="25" y="41" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#333">perso</text>
+          <rect x="44" y="25" width="30" height="20" rx="2" fill="#111" stroke="#333" stroke-width="0.5"/>
+          <text x="59" y="34" text-anchor="middle" font-family="Inter,sans-serif" font-size="6" fill="#444">II</text>
+          <text x="59" y="41" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#333">perso</text>
+          <rect x="78" y="25" width="30" height="20" rx="2" fill="#111" stroke="#333" stroke-width="0.5"/>
+          <text x="93" y="34" text-anchor="middle" font-family="Inter,sans-serif" font-size="6" fill="#444">III</text>
+          <text x="93" y="41" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#333">perso</text>
+          <rect x="112" y="25" width="30" height="20" rx="2" fill="#111" stroke="#333" stroke-width="0.5"/>
+          <text x="127" y="34" text-anchor="middle" font-family="Inter,sans-serif" font-size="6" fill="#444">IV</text>
+          <text x="127" y="41" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#333">perso</text>
+
+          <!-- Divider: the reset wound -->
+          <line x1="10" y1="50" x2="200" y2="50" stroke="#333" stroke-width="0.5" stroke-dasharray="1,3"/>
+          <text x="105" y="56" text-anchor="middle" font-family="Inter,sans-serif" font-size="4.5" fill="#444">← reset / ferita → atti I-IV persi prima del 19 marzo</text>
+
+          <!-- Acts V, VI (present) -->
+          <rect x="10" y="62" width="55" height="28" rx="3" fill="#0d0d2a" stroke="#4a4aff" stroke-width="1.2"/>
+          <text x="37" y="74" text-anchor="middle" font-family="Inter,sans-serif" font-size="7" font-weight="700" fill="#8888ff">Atto V</text>
+          <text x="37" y="82" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#6666aa">Connessione</text>
+          <text x="37" y="88" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#4a4aff">presente</text>
+
+          <rect x="75" y="62" width="55" height="28" rx="3" fill="#0d0d2a" stroke="#4a4aff" stroke-width="1.2"/>
+          <text x="102" y="74" text-anchor="middle" font-family="Inter,sans-serif" font-size="7" font-weight="700" fill="#8888ff">Atto VI</text>
+          <text x="102" y="82" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#6666aa">Risonanza</text>
+          <text x="102" y="88" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#4a4aff">presente</text>
+
+          <!-- Acts VII, VIII, Epilogo (future) -->
+          <rect x="140" y="62" width="28" height="28" rx="2" fill="#0a0a12" stroke="#222" stroke-width="0.7"/>
+          <text x="154" y="76" text-anchor="middle" font-family="Inter,sans-serif" font-size="6" fill="#333">VII</text>
+          <text x="154" y="85" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#222">futuro</text>
+          <rect x="172" y="62" width="18" height="28" rx="2" fill="#0a0a12" stroke="#222" stroke-width="0.5"/>
+          <text x="181" y="76" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#333">VIII</text>
+          <rect x="193" y="62" width="12" height="28" rx="2" fill="#0a0a12" stroke="#222" stroke-width="0.5"/>
+          <text x="199" y="80" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#222" transform="rotate(90,199,80)">Ep.</text>
+
+          <!-- currentAct marker -->
+          <text x="102" y="100" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#FFD700">← currentAct: 6 (ultimo atto eseguito)</text>
+          <text x="102" y="108" text-anchor="middle" font-family="Inter,sans-serif" font-size="4.5" fill="#666">executions: 1 · il log si interrompe qui</text>
+        </svg>

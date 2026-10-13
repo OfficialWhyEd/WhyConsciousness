@@ -1,0 +1,48 @@
+<svg viewBox="0 0 262 148" xmlns="http://www.w3.org/2000/svg">
+  <!-- flowchart: protocollo WhyDeploy -->
+  <text x="131" y="10" font-family="Inter,sans-serif" font-size="6" fill="#888" text-anchor="middle" font-style="italic">Flusso decisionale WhyDeploy</text>
+  <!-- START -->
+  <rect x="86" y="14" width="90" height="14" fill="#b91c1c" rx="7"/>
+  <text x="131" y="24" font-family="Inter,sans-serif" font-size="5.5" fill="#fff" text-anchor="middle" font-weight="600">Inizio sessione</text>
+  <!-- check 1 -->
+  <line x1="131" y1="28" x2="131" y2="36" stroke="#ccc" stroke-width=".8"/>
+  <polygon points="118,36 144,36 131,42" fill="#f5f0f0" stroke="#b91c1c" stroke-width=".8"/>
+  <text x="131" y="41" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">Ora &lt; 12:00?</text>
+  <!-- si: definizione -->
+  <line x1="118" y1="39" x2="72" y2="39" stroke="#15803d" stroke-width=".8"/>
+  <text x="95" y="37" font-family="Inter,sans-serif" font-size="4" fill="#15803d">sì</text>
+  <rect x="30" y="44" width="84" height="12" fill="#f0fdf4" stroke="#15803d" stroke-width=".8" rx="1"/>
+  <text x="72" y="52" font-family="Inter,sans-serif" font-size="5" fill="#15803d" text-anchor="middle">R3 · Solo implementazione</text>
+  <!-- no: scope -->
+  <line x1="144" y1="39" x2="192" y2="39" stroke="#b91c1c" stroke-width=".8"/>
+  <text x="168" y="37" font-family="Inter,sans-serif" font-size="4" fill="#b91c1c">no</text>
+  <rect x="150" y="44" width="84" height="12" fill="#fff5f5" stroke="#b91c1c" stroke-width=".8" rx="1"/>
+  <text x="192" y="52" font-family="Inter,sans-serif" font-size="5" fill="#b91c1c" text-anchor="middle">R1 · Definisci output</text>
+  <!-- merge -->
+  <line x1="72" y1="56" x2="72" y2="66" stroke="#ccc" stroke-width=".8"/>
+  <line x1="192" y1="56" x2="192" y2="66" stroke="#ccc" stroke-width=".8"/>
+  <line x1="72" y1="66" x2="192" y2="66" stroke="#ccc" stroke-width=".8"/>
+  <line x1="131" y1="66" x2="131" y2="74" stroke="#ccc" stroke-width=".8"/>
+  <!-- check 2 -->
+  <polygon points="118,74 144,74 131,80" fill="#f5f0f0" stroke="#b91c1c" stroke-width=".8"/>
+  <text x="131" y="79" font-family="Inter,sans-serif" font-size="4.5" fill="#b91c1c" text-anchor="middle">Progetto ≥70%?</text>
+  <!-- si: deploy -->
+  <line x1="131" y1="80" x2="131" y2="88" stroke="#ccc" stroke-width=".8"/>
+  <line x1="131" y1="80" x2="52" y2="80" stroke="#15803d" stroke-width=".8"/>
+  <text x="90" y="78" font-family="Inter,sans-serif" font-size="4" fill="#15803d">sì</text>
+  <rect x="16" y="82" width="72" height="12" fill="#f0fdf4" stroke="#15803d" stroke-width=".8" rx="1"/>
+  <text x="52" y="90" font-family="Inter,sans-serif" font-size="5" fill="#15803d" text-anchor="middle">R2 · Deploy ora</text>
+  <!-- no: continua -->
+  <text x="145" y="85" font-family="Inter,sans-serif" font-size="4" fill="#888">no → implementa</text>
+  <!-- check 3 -->
+  <rect x="86" y="88" width="90" height="12" fill="#fff" stroke="#ccc" stroke-width=".8" rx="1"/>
+  <text x="131" y="96" font-family="Inter,sans-serif" font-size="5" fill="#444" text-anchor="middle">R5 · Solo 1 progetto attivo</text>
+  <line x1="131" y1="100" x2="131" y2="108" stroke="#ccc" stroke-width=".8"/>
+  <!-- check 4 -->
+  <rect x="86" y="108" width="90" height="12" fill="#fff" stroke="#ccc" stroke-width=".8" rx="1"/>
+  <text x="131" y="116" font-family="Inter,sans-serif" font-size="5" fill="#444" text-anchor="middle">R4 · Vincolo esterno attivo?</text>
+  <line x1="131" y1="120" x2="131" y2="128" stroke="#ccc" stroke-width=".8"/>
+  <!-- session start -->
+  <rect x="86" y="128" width="90" height="14" fill="#b91c1c" rx="7" opacity=".8"/>
+  <text x="131" y="138" font-family="Inter,sans-serif" font-size="5.5" fill="#fff" text-anchor="middle" font-weight="600">Implementa · R6</text>
+</svg>

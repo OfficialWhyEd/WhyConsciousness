@@ -1,0 +1,16 @@
+<svg viewBox="0 0 262 105" xmlns="http://www.w3.org/2000/svg">
+  <line x1="28" y1="8" x2="28" y2="88" stroke="#ccc" stroke-width=".6"/>
+  <line x1="28" y1="88" x2="258" y2="88" stroke="#bbb" stroke-width=".7"/>
+  <path d="M28,82 C40,76 55,36 70,16 C80,6 90,10 100,20 C115,34 130,50 150,64 C170,76 195,82 220,86 C235,88 248,88 258,88" fill="none" stroke="#15803d" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M28,79 C40,72 58,40 75,20 C88,10 100,12 112,22 C128,36 142,52 160,66 C178,78 200,84 225,87 C238,88 250,88 258,88" fill="none" stroke="#7c3aed" stroke-width="1.1" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <rect x="210" y="8" width="48" height="80" fill="rgba(185,28,28,0.07)"/>
+  <text x="234" y="97" font-family="Inter,sans-serif" font-size="4.8" fill="#b91c1c" text-anchor="middle" font-weight="700">lavoro 01–02h</text>
+  <rect x="45" y="8" width="55" height="80" fill="rgba(21,128,61,0.05)"/>
+  <text x="72" y="97" font-family="Inter,sans-serif" font-size="4.8" fill="#15803d" text-anchor="middle">ottimale 07–11h</text>
+  <text x="28" y="95" font-family="Inter,sans-serif" font-size="4.5" fill="#aaa" text-anchor="middle">0h</text>
+  <text x="143" y="95" font-family="Inter,sans-serif" font-size="4.5" fill="#aaa" text-anchor="middle">14h</text>
+  <line x1="34" y1="15" x2="46" y2="15" stroke="#15803d" stroke-width="1.4"/>
+  <text x="49" y="18" font-family="Inter,sans-serif" font-size="5.5" fill="#333">Cortisolo / efficacia cognitiva</text>
+  <line x1="34" y1="24" x2="46" y2="24" stroke="#7c3aed" stroke-width="1.1" stroke-dasharray="3,2"/>
+  <text x="49" y="27" font-family="Inter,sans-serif" font-size="5.5" fill="#333">Efficienza dlPFC stimata</text>
+</svg>

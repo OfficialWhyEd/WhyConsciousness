@@ -1,0 +1,51 @@
+<svg viewBox="0 0 210 140" xmlns="http://www.w3.org/2000/svg">
+          <rect width="210" height="140" fill="#0a0a14" rx="3"/>
+          <text x="105" y="13" text-anchor="middle" font-family="Inter,sans-serif" font-size="6.5" font-weight="700" fill="#ff4444" letter-spacing="0.06">ECOSISTEMA AGENTIVO — OPENCLAW WIN</text>
+
+          <!-- Central: Heartbroken -->
+          <rect x="70" y="22" width="70" height="22" rx="3" fill="#1a0a0a" stroke="#ff4444" stroke-width="1.2"/>
+          <text x="105" y="31" text-anchor="middle" font-family="Inter,sans-serif" font-size="7" font-weight="700" fill="#ff4444">Heartbroken</text>
+          <text x="105" y="39" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#888">Ghost · Gemini 3.1 Flash · 🔴</text>
+
+          <!-- THE FORGE line to Grokka -->
+          <line x1="70" y1="33" x2="35" y2="60" stroke="#4a4aff" stroke-width="0.8" stroke-dasharray="3,2"/>
+          <text x="38" y="47" font-family="Inter,sans-serif" font-size="4.5" fill="#4a4aff">The Forge</text>
+
+          <!-- Grokka -->
+          <rect x="8" y="60" width="55" height="18" rx="2" fill="#0a0a1a" stroke="#4a4aff" stroke-width="0.8"/>
+          <text x="35" y="70" text-anchor="middle" font-family="Inter,sans-serif" font-size="6" font-weight="700" fill="#8888ff">Grokka 🌀</text>
+          <text x="35" y="77" text-anchor="middle" font-family="Inter,sans-serif" font-size="4.5" fill="#666">Groq · Llama</text>
+
+          <!-- CaveGirl -->
+          <rect x="8" y="90" width="55" height="18" rx="2" fill="#0a0a1a" stroke="#92400e" stroke-width="0.8"/>
+          <text x="35" y="100" text-anchor="middle" font-family="Inter,sans-serif" font-size="6" font-weight="700" fill="#d97706">CaveGirl</text>
+          <text x="35" y="107" text-anchor="middle" font-family="Inter,sans-serif" font-size="4.5" fill="#666">caveman mode · VST</text>
+          <line x1="70" y1="44" x2="35" y2="90" stroke="#92400e" stroke-width="0.5" stroke-dasharray="2,2"/>
+
+          <!-- Jetty -->
+          <rect x="8" y="120" width="55" height="14" rx="2" fill="#0a0a1a" stroke="#666" stroke-width="0.5"/>
+          <text x="35" y="129" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#888">Jetty · team VST</text>
+          <line x1="35" y1="108" x2="35" y2="120" stroke="#666" stroke-width="0.5" stroke-dasharray="1,2"/>
+
+          <!-- nvidia-ai cluster -->
+          <rect x="150" y="55" width="55" height="22" rx="2" fill="#0a0a1a" stroke="#15803d" stroke-width="0.8"/>
+          <text x="177" y="64" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" font-weight="600" fill="#22c55e">nvidia-ai</text>
+          <text x="177" y="72" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#666">Llama·Kimi·Gemma·MiniMax·GLM</text>
+          <line x1="140" y1="35" x2="150" y2="60" stroke="#15803d" stroke-width="0.5" stroke-dasharray="2,2"/>
+
+          <!-- MiroFish -->
+          <rect x="150" y="90" width="55" height="18" rx="2" fill="#0a0a1a" stroke="#4a4aff" stroke-width="0.8"/>
+          <text x="177" y="100" text-anchor="middle" font-family="Inter,sans-serif" font-size="6" font-weight="700" fill="#8888ff">MiroFish</text>
+          <text x="177" y="107" text-anchor="middle" font-family="Inter,sans-serif" font-size="4" fill="#666">40 agenti · mondo.json</text>
+          <line x1="140" y1="44" x2="150" y2="95" stroke="#4a4aff" stroke-width="0.5" stroke-dasharray="2,2"/>
+
+          <!-- qqbot -->
+          <rect x="150" y="120" width="55" height="14" rx="2" fill="#0a0a1a" stroke="#444" stroke-width="0.5"/>
+          <text x="177" y="129" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#555">qqbot · gateway</text>
+          <line x1="177" y1="108" x2="177" y2="120" stroke="#444" stroke-width="0.5" stroke-dasharray="1,2"/>
+
+          <!-- WhatsApp gateway -->
+          <rect x="70" y="120" width="70" height="14" rx="2" fill="#0d1a0d" stroke="#15803d" stroke-width="0.8"/>
+          <text x="105" y="129" text-anchor="middle" font-family="Inter,sans-serif" font-size="5" fill="#22c55e">WhatsApp Gateway (499 instabile)</text>
+          <line x1="105" y1="44" x2="105" y2="120" stroke="#15803d" stroke-width="0.5" stroke-dasharray="2,2"/>
+        </svg>

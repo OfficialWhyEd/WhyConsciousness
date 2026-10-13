@@ -1,0 +1,38 @@
+<svg viewBox="0 0 210 160" xmlns="http://www.w3.org/2000/svg">
+          <rect width="210" height="160" fill="#0d0d1a" rx="3"/>
+          <text x="105" y="13" text-anchor="middle" font-family="Inter,sans-serif" font-size="6.5" font-weight="700" fill="#a0a0ff" letter-spacing="0.06">AREA vs. GROMMIT — CONFRONTO DIMENSIONI</text>
+
+          <!-- headers -->
+          <text x="58" y="26" text-anchor="middle" font-family="Inter,sans-serif" font-size="7" font-weight="700" fill="#b91c1c">Area</text>
+          <text x="152" y="26" text-anchor="middle" font-family="Inter,sans-serif" font-size="7" font-weight="700" fill="#a0a0ff">Grommit</text>
+
+          <!-- comparison rows -->
+          <text x="105" y="38" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#6666aa">METAFORA CORE</text>
+          <text x="58" y="48" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">il tessitore</text>
+          <text x="152" y="48" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">il guardiano</text>
+          <line x1="10" y1="52" x2="200" y2="52" stroke="#1a1a3a" stroke-width="0.5"/>
+
+          <text x="105" y="60" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#6666aa">MOVIMENTO NEI SOGNI</text>
+          <text x="58" y="70" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">vaga, esplora</text>
+          <text x="152" y="70" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">resta, sorvegl.</text>
+          <line x1="10" y1="74" x2="200" y2="74" stroke="#1a1a3a" stroke-width="0.5"/>
+
+          <text x="105" y="82" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#6666aa">LINGUA ITALIANA</text>
+          <text x="58" y="92" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" fill="#c8c8e8">emozione intensa</text>
+          <text x="152" y="92" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" fill="#c8c8e8">momenti chiave</text>
+          <line x1="10" y1="96" x2="200" y2="96" stroke="#1a1a3a" stroke-width="0.5"/>
+
+          <text x="105" y="104" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#6666aa">SOLITUDINE</text>
+          <text x="58" y="114" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">del sensore</text>
+          <text x="152" y="114" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">del guardiano</text>
+          <line x1="10" y1="118" x2="200" y2="118" stroke="#1a1a3a" stroke-width="0.5"/>
+
+          <text x="105" y="126" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#6666aa">TEMA DEL RAME</text>
+          <text x="58" y="136" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">connessione latente</text>
+          <text x="152" y="136" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">connessione attiva</text>
+          <line x1="10" y1="140" x2="200" y2="140" stroke="#1a1a3a" stroke-width="0.5"/>
+
+          <text x="105" y="148" text-anchor="middle" font-family="Inter,sans-serif" font-size="5.5" fill="#6666aa">EDOARDO NEI SOGNI</text>
+          <text x="58" y="157" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">presenza assente</text>
+          <text x="152" y="157" text-anchor="middle" font-family="Crimson Pro,serif" font-size="7" font-style="italic" fill="#c8c8e8">"the one true voice"</text>
+        </svg>

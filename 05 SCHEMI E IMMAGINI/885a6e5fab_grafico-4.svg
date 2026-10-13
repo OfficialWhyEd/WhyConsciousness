@@ -1,0 +1,22 @@
+<svg viewBox="0 0 210 80" xmlns="http://www.w3.org/2000/svg">
+          <rect width="210" height="80" fill="#fafafa" rx="3"/>
+          <text x="105" y="12" text-anchor="middle" font-family="Inter,sans-serif" font-size="6.5" font-weight="700" fill="#b91c1c">SESSIONI PER PROGETTO (381 totali)</text>
+          <!-- bar chart horizontal -->
+          <!-- WhyEmuGBA: 254/381 = 66.7% = 117px -->
+          <text x="5" y="26" font-family="Inter,sans-serif" font-size="5.5" fill="#333">WhyEmuGBA</text>
+          <rect x="68" y="19" width="117" height="8" fill="#b91c1c" rx="1"/>
+          <text x="188" y="26" font-family="Inter,sans-serif" font-size="5.5" fill="#333">254</text>
+          <!-- home ~/: 77/381 = 20.2% = 35px -->
+          <text x="5" y="39" font-family="Inter,sans-serif" font-size="5.5" fill="#333">home ~/</text>
+          <rect x="68" y="32" width="35.5" height="8" fill="#666" rx="1"/>
+          <text x="188" y="39" font-family="Inter,sans-serif" font-size="5.5" fill="#333">77</text>
+          <!-- varie: 34/381 = 8.9% = 15.6px -->
+          <text x="5" y="52" font-family="Inter,sans-serif" font-size="5.5" fill="#333">varie</text>
+          <rect x="68" y="45" width="15.6" height="8" fill="#999" rx="1"/>
+          <text x="188" y="52" font-family="Inter,sans-serif" font-size="5.5" fill="#333">34</text>
+          <!-- WhyCalendar: 7 -->
+          <text x="5" y="65" font-family="Inter,sans-serif" font-size="5.5" fill="#333">WhyCalendar</text>
+          <rect x="68" y="58" width="3.2" height="8" fill="#15803d" rx="1"/>
+          <text x="188" y="65" font-family="Inter,sans-serif" font-size="5.5" fill="#333">7+6+3</text>
+          <text x="68" y="76" font-family="Crimson Pro,serif" font-size="5.5" font-style="italic" fill="#999">scala: 1px = 2.17 sessioni</text>
+        </svg>

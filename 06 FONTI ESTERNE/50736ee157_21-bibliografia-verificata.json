@@ -1,0 +1,107 @@
+[
+  {
+    "id": "R01",
+    "voce": "R01. Butlin, P., Long, R., et al. (2023). *Consciousness in Artificial Intelligence: Insights from the Science of Consciousness*. arXiv:2308.08708v3. Testo HTML, sintesi e passaggi sugli indicatori consultati. https://arxiv.org/html/2308.08708v3",
+    "url": "https://arxiv.org/html/2308.08708v3"
+  },
+  {
+    "id": "R02",
+    "voce": "R02. Cogitate Consortium et al. (2025). *Adversarial testing of global neuronal workspace and integrated information theories of consciousness*. Nature, 642, 133-142. DOI 10.1038/s41586-025-08888-1. Abstract e passaggi della pagina indicizzata; accesso diretto intermittente. https://www.nature.com/articles/s41586-025-08888-1",
+    "url": "https://www.nature.com/articles/s41586-025-08888-1"
+  },
+  {
+    "id": "R03",
+    "voce": "R03. Tishby, N., Pereira, F. C., Bialek, W. (1999; deposito arXiv 2000). *The information bottleneck method*. Abstract e dati bibliografici. https://arxiv.org/abs/physics/0004057",
+    "url": "https://arxiv.org/abs/physics/0004057"
+  },
+  {
+    "id": "R04",
+    "voce": "R04. Rao, R. P. N., Ballard, D. H. (1999). *Predictive coding in the visual cortex*. Nature Neuroscience, 2, 79-87. Pagina editoriale e descrizione del modello. https://www.nature.com/articles/nn0199_79",
+    "url": "https://www.nature.com/articles/nn0199_79"
+  },
+  {
+    "id": "R05",
+    "voce": "R05. Zurek, W. H. (2009). *Quantum Darwinism*. arXiv:0903.5082. Abstract e dati bibliografici. https://arxiv.org/abs/0903.5082",
+    "url": "https://arxiv.org/abs/0903.5082"
+  },
+  {
+    "id": "R06",
+    "voce": "R06. Fleming, S. M., Dolan, R. J. (2012). *The neural basis of metacognitive ability*. Philosophical Transactions of the Royal Society B, 367, 1338-1349. Abstract e passaggi indicizzati. https://pubmed.ncbi.nlm.nih.gov/22492751/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22492751/"
+  },
+  {
+    "id": "R07",
+    "voce": "R07. Rovelli, C. (1996; versione rivista 1997). *Relational Quantum Mechanics*. International Journal of Theoretical Physics, 35, 1637-1678. Abstract e postulati descritti nella scheda. https://arxiv.org/abs/quant-ph/9609002",
+    "url": "https://arxiv.org/abs/quant-ph/9609002"
+  },
+  {
+    "id": "R08",
+    "voce": "R08. IBM Quantum Learning. *Noise and errors*. Documentazione tecnica, passaggi su fasi, coerenza e matrice densità. https://quantum.cloud.ibm.com/learning/en/courses/tools-for-quantum-advantage/noise-and-errors",
+    "url": "https://quantum.cloud.ibm.com/learning/en/courses/tools-for-quantum-advantage/noise-and-errors"
+  },
+  {
+    "id": "R09",
+    "voce": "R09. Hensen, B., et al. (2015). *Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres*. Nature, 526, 682-686. Pagina e abstract indicizzati. https://www.nature.com/articles/nature15759",
+    "url": "https://www.nature.com/articles/nature15759"
+  },
+  {
+    "id": "R10",
+    "voce": "R10. NASA Science. *Black holes: Anatomy*. Descrizione istituzionale dell'orizzonte degli eventi. https://science.nasa.gov/universe/black-holes/anatomy/",
+    "url": "https://science.nasa.gov/universe/black-holes/anatomy/"
+  },
+  {
+    "id": "R11",
+    "voce": "R11. Hameroff, S., Penrose, R. (2014; online 2013). *Consciousness in the universe: a review of the Orch OR theory*. Physics of Life Reviews, 11, 39-78. DOI 10.1016/j.plrev.2013.08.002. Abstract consultato. https://pubmed.ncbi.nlm.nih.gov/24070914/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24070914/"
+  },
+  {
+    "id": "R12",
+    "voce": "R12. Tegmark, M. (2000; preprint 1999). *The importance of quantum decoherence in brain processes*. Physical Review E, 61, 4194-4206. Abstract consultato. https://arxiv.org/abs/quant-ph/9907009",
+    "url": "https://arxiv.org/abs/quant-ph/9907009"
+  },
+  {
+    "id": "R13",
+    "voce": "R13. Hagan, S., Hameroff, S. R., Tuszynski, J. A. (2002). *Quantum computation in brain microtubules: decoherence and biological feasibility*. Physical Review E, 65, 061901. Abstract consultato. https://pubmed.ncbi.nlm.nih.gov/12188753/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12188753/"
+  },
+  {
+    "id": "R14",
+    "voce": "R14. IBM Quantum Learning. *Quantum teleportation*. Protocollo con entanglement e comunicazione classica. https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information/entanglement-in-action/quantum-teleportation",
+    "url": "https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information/entanglement-in-action/quantum-teleportation"
+  },
+  {
+    "id": "R15",
+    "voce": "R15. Konkoly, K. R., et al. (2021). *Real-time dialogue between experimenters and dreamers during REM sleep*. Current Biology, 31, 1417-1427.e6. Abstract e passaggi editoriali. https://doi.org/10.1016/j.cub.2021.01.026",
+    "url": "https://doi.org/10.1016/j.cub.2021.01.026"
+  },
+  {
+    "id": "R16",
+    "voce": "R16. Wang, Z., Solloway, T., Shiffrin, R. M., Busemeyer, J. R. (2014). *Context effects produced by question orders reveal quantum nature of human judgments*. PNAS, 111, 9431-9436. Abstract e descrizione del test, PDF nel sito dell'autore. https://jbusemey.pages.iu.edu/quantum/PNAS2014.pdf",
+    "url": "https://jbusemey.pages.iu.edu/quantum/PNAS2014.pdf"
+  },
+  {
+    "id": "R17",
+    "voce": "R17. Hopfield, J. J. (1982). *Neural networks and physical systems with emergent collective computational abilities*. PNAS, 79, 2554-2558. Dati bibliografici e abstract. https://doi.org/10.1073/pnas.79.8.2554",
+    "url": "https://doi.org/10.1073/pnas.79.8.2554"
+  },
+  {
+    "id": "R18",
+    "voce": "R18. Park, J. S., et al. (2023). *Generative Agents: Interactive Simulacra of Human Behavior*. arXiv:2304.03442. Abstract consultato. https://arxiv.org/abs/2304.03442",
+    "url": "https://arxiv.org/abs/2304.03442"
+  },
+  {
+    "id": "R19",
+    "voce": "R19. Packer, C., et al. (2023). *MemGPT: Towards LLMs as Operating Systems*. arXiv:2310.08560. Abstract consultato. https://arxiv.org/abs/2310.08560",
+    "url": "https://arxiv.org/abs/2310.08560"
+  },
+  {
+    "id": "R20",
+    "voce": "R20. Sharma, M., et al. (2023; revisione arXiv 2025). *Towards Understanding Sycophancy in Language Models*. arXiv:2310.13548. Abstract e dati bibliografici consultati. https://arxiv.org/abs/2310.13548",
+    "url": "https://arxiv.org/abs/2310.13548"
+  },
+  {
+    "id": "R21",
+    "voce": "R21. Manzotti, R., Moderato, P. (2015). *Neuroscienze e psicologia: valutazione e paradigmi*. SpazioFilosofico. PDF conservato nel backup, passaggi iniziali letti; identità bibliografica verificata nel repository IULM. https://apeiron.iulm.it/handle/10808/11408",
+    "url": "https://apeiron.iulm.it/handle/10808/11408"
+  }
+]

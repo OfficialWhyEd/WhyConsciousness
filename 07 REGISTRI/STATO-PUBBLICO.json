@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-13T00:38:10.517013+00:00",
+  "public_source_records": 584,
+  "public_unique_source_files": 368,
+  "conversations": 192,
+  "conversation_messages": 2138,
+  "local_integral_source_records": 8521,
+  "local_integral_unique_source_files": 7577,
+  "pdf_contact_redactions": 10,
+  "categories": {
+    "01 PAPER": 114,
+    "00 GUIDA": 2,
+    "04 AGENTI": 26,
+    "06 FONTI ESTERNE": 1,
+    "02 INTUIZIONI": 23,
+    "03 CONVERSAZIONI": 192,
+    "05 SCHEMI E IMMAGINI": 226
+  },
+  "completeness": "edizione pubblica dei contenuti recuperati sul tema, corpus integrale locale; lacune documentate",
+  "public_paper_files": 52,
+  "public_diagram_files": 83,
+  "visibility_target": "PUBLIC"
+}

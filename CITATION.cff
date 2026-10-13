@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Citare il documento specifico e la revisione consultata, mantenendo le attribuzioni AI."
+title: "WhyConsciousness"
+type: dataset
+authors:
+  - family-names: Porcu
+    given-names: Edoardo
+repository-code: "https://github.com/OfficialWhyEd/WhyConsciousness"
+date-released: "2026-10-13"
