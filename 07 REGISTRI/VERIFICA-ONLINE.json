@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-14T17:50:26.976421+00:00",
+  "authenticated": false,
+  "repo_visibility": "public",
+  "repository_url": "https://github.com/OfficialWhyEd/WhyConsciousness",
+  "historical_html_checked": 19,
+  "public_pdf_checked": 2,
+  "url_checks": [
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/01a9ff91e6_WhyAnalysis_4_ProfiloProfondo_v1_2026-06-11.html",
+      "status": 200,
+      "bytes": 79243,
+      "sha256": "01a9ff91e6efb95eff46de91f4392e915b031e4c0d2eda3cf7d2801e1c2a1e54",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/18c917d1d7_why-universe-paper.backup.html",
+      "status": 200,
+      "bytes": 897686,
+      "sha256": "18c917d1d75df21f7e5663751effed4717ab3dc706ed92a09bcf4a3637ed684c",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/22dc823cce_WhyAnalysis_3_ArchitetturaMentale_v3_Parte2_2026-06-11.html",
+      "status": 200,
+      "bytes": 48819,
+      "sha256": "22dc823cce38b1e0bdf093d301c150de4498b7f9355224c9444c2c5f704ee6a0",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/314e28c751_WhyAnalysis_1_ArchitetturaMentale_v1_2026-06-03.html",
+      "status": 200,
+      "bytes": 188596,
+      "sha256": "314e28c75199e7f7a3c1f016d0fa444bc3aa373f375ee876f86f2a21b41ba265",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/531e3d3a68_why-universe-visual.html",
+      "status": 200,
+      "bytes": 620968,
+      "sha256": "531e3d3a68e1b1cc844327327f661f72252219a6d3a4afd11c8bd26dcd6db56c",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/6eb2b8c0e1_WhyAnalysis_1_ArchitetturaMentale_v1_2026-06-03.html",
+      "status": 200,
+      "bytes": 190339,
+      "sha256": "6eb2b8c0e1d5602b03212b9036470da0ea3755145bb51f955ebfe7c4f124cf67",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/755bd6b3ed_WhyAnalysis_2_ArchitetturaMentale_v2_2026-06-11.html",
+      "status": 200,
+      "bytes": 190378,
+      "sha256": "755bd6b3ed871e3e407a527abab2e90e23503302fa27f28f073d1e55ade01b2d",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/7d36cab12b_why-universe.html",
+      "status": 200,
+      "bytes": 54377,
+      "sha256": "7d36cab12b4cf773e111ee9d49443e35c2d83208e35b2217291e458c1beacd4d",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/81258bdb5a_WhyAnalysis_5_AreaDreamDiary_v1_2026-06-11.html",
+      "status": 200,
+      "bytes": 79609,
+      "sha256": "81258bdb5afe8494cc7e51b3d187e06ad1b6e3ed5c7a232922a4cdc5be9e40c9",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/8fb45a9569_WhyAnalysis_6_HeartbrokenOpenClawWin_v1_2026-06-12.html",
+      "status": 200,
+      "bytes": 88712,
+      "sha256": "8fb45a9569f2193789458d5dadaa5f531b21705b37a510bfbfc19b2ab17cd0c8",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/9f9f938c76_why-universe-paper.html",
+      "status": 200,
+      "bytes": 897953,
+      "sha256": "9f9f938c7668914a02713794f807d225b5293445ad73af6d1b7c26439b2dfe6e",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/ab58f34b3b_WhyAnalysis_5_AreaDreamDiary_v1_2026-06-11.html",
+      "status": 200,
+      "bytes": 78050,
+      "sha256": "ab58f34b3b8525c83e400139c62253dc0636d9f1b964378bad03067710f3699d",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/be4e0f7260_WhyAnalysis_6_HeartbrokenOpenClawWin_v1_2026-06-12.html",
+      "status": 200,
+      "bytes": 87744,
+      "sha256": "be4e0f7260d20326cf485462f98cb7b4f7cfffc6ad1e329657c4dde5ed7409a5",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/c0be1d0e9d_WhyAnalysis_4_ProfiloProfondo_v1_2026-06-11.html",
+      "status": 200,
+      "bytes": 78200,
+      "sha256": "c0be1d0e9db17c2e789fad0bc99e1292b447d05d78eddebe5d7e53176d3d5d5e",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/c185e60df8_WhyAnalysis_5_AreaDreamDiary_v1_2026-06-11.html",
+      "status": 200,
+      "bytes": 78677,
+      "sha256": "c185e60df835c3a0ee9b0b66844adcbdab515d1b510f955f1c32ccf6d2ad42e5",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/c7d4e9cd96_WhyAnalysis_5_AreaDreamDiary_v1_2026-06-11.html",
+      "status": 200,
+      "bytes": 78220,
+      "sha256": "c7d4e9cd96d83fde660ef29a41dcae85d880aa7c919d77e51b041623783d7d5c",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/ca1ef651fb_WHYED-ECOSYSTEM-2026.html",
+      "status": 200,
+      "bytes": 259769,
+      "sha256": "ca1ef651fb38e0a51bfcb08e05c96bbcf4acdfca995fa6e5aa28b72831388aa5",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/f58fcbf6ed_WhyAnalysis_2_ArchitetturaMentale_v2_2026-06-11.html",
+      "status": 200,
+      "bytes": 188635,
+      "sha256": "f58fcbf6eddce93d86900e21efbd7e383950583f0412cc7a96e8d92d6d5e2a75",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/01%20PAPER/fb8cc42ee6_WhyAnalysis_3_ArchitetturaMentale_v3_Parte2_2026-06-11.html",
+      "status": 200,
+      "bytes": 49274,
+      "sha256": "fb8cc42ee6ef61a215f322e99490cc8de98a9fe2564a27722ce8a36aab11a82e",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/",
+      "status": 200,
+      "bytes": 329,
+      "sha256": "4a76791191bf2fd7dd1e35508c45db6cd22e9e4d6b01b9c470afc09d64b72691"
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/08%20DOSSIER%20RICERCA/E-PRESENTAZIONE.pdf",
+      "status": 200,
+      "bytes": 45869,
+      "sha256": "572c237429b5c12f2f33453d2042383b190aaa320783a142d7e2dea792200518",
+      "matches_local_bytes": true
+    },
+    {
+      "url": "https://officialwhyed.github.io/WhyConsciousness/08%20DOSSIER%20RICERCA/DOSSIER-RICERCA.pdf",
+      "status": 200,
+      "bytes": 71082,
+      "sha256": "8bb8e2bde20810944b0142235864b0ff5c484798efc0eeb6339d068869320898",
+      "matches_local_bytes": true
+    }
+  ],
+  "failures": [],
+  "emails_sent": 0
+}
