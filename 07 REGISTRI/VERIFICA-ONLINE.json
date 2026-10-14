@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14T17:50:26.976421+00:00",
+  "date": "2026-10-14T17:56:32.802414+00:00",
   "authenticated": false,
   "repo_visibility": "public",
   "repository_url": "https://github.com/OfficialWhyEd/WhyConsciousness",
@@ -148,15 +148,15 @@
     {
       "url": "https://officialwhyed.github.io/WhyConsciousness/08%20DOSSIER%20RICERCA/E-PRESENTAZIONE.pdf",
       "status": 200,
-      "bytes": 45869,
-      "sha256": "572c237429b5c12f2f33453d2042383b190aaa320783a142d7e2dea792200518",
+      "bytes": 45857,
+      "sha256": "7f1633bb693bd8f74a12b1d2c38f25b750e46bcff59526c57307be0b2380f5b4",
       "matches_local_bytes": true
     },
     {
       "url": "https://officialwhyed.github.io/WhyConsciousness/08%20DOSSIER%20RICERCA/DOSSIER-RICERCA.pdf",
       "status": 200,
-      "bytes": 71082,
-      "sha256": "8bb8e2bde20810944b0142235864b0ff5c484798efc0eeb6339d068869320898",
+      "bytes": 72007,
+      "sha256": "a832d46b6c699ff514d654741eb62130f130ef843420ef26497093c2c655c7ab",
       "matches_local_bytes": true
     }
   ],
