@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-14T17:47:54.085753+00:00",
+  "historical_source_records_verified": 721,
+  "historical_unique_source_files_verified": 505,
+  "public_dossier_files": 11,
+  "public_dossier_sha256": {
+    "00-LEGGIMI.md": "2929e81c0166c7879a464b5c944e07afc05a81c6ec4afbdae6ef525e64f38380",
+    "A-AUDIT-SCIENTIFICO.md": "4fb1da58086102c8f26493f3803f2d047bb5c52dab7b790d52a7da2740e5035a",
+    "B-REGISTRO-FONTI.json": "181b678dbae3f8725fbfff5000040c7f686a8cb3aafb2a8f9440d276497c6924",
+    "B-REGISTRO-STORICO.md": "ccaa1d8ce5d221f3ef09ad24d2172e10dd9847abc3c6a2775a95db755e3cbc72",
+    "C-ROADMAP-SPERIMENTALE.md": "e9ecf31cbe418cae15668f221e273ec74b4452afd7fbca3aeda18666d9dab73e",
+    "CONTROLLO-QUANTISTICO.json": "a0abbc460675a7180ddd2b8d3cba2360dab79c7385824f2af9283cdeacd8dd72",
+    "D-CONFRONTO-TEORICO.md": "39d76d1736c59edadeb75c76a692c9e4fd0c4166156e43ee688b8cf4c5bb9300",
+    "DOSSIER-RICERCA.pdf": "8bb8e2bde20810944b0142235864b0ff5c484798efc0eeb6339d068869320898",
+    "E-PRESENTAZIONE.md": "c814eb3161c437d71ce5cb368538e22195579ddcc72be2aadeba7c53246722d1",
+    "E-PRESENTAZIONE.pdf": "572c237429b5c12f2f33453d2042383b190aaa320783a142d7e2dea792200518",
+    "G-VERDETTO-INDIPENDENTE.md": "f790e62f418e4f7dbc8128b3e482b862b143fbbe450dccde537ec12fb4028fde"
+  },
+  "local_links_verified": 540,
+  "public_files_in_scope": 534,
+  "failures": [],
+  "scope": "hash delle fonti storiche, link locali di guide e dossier, contatti e credenziali riconoscibili nei nuovi testi; allegati riservati esclusi",
+  "complete_pc_reading_claimed": false,
+  "emails_sent": 0
+}

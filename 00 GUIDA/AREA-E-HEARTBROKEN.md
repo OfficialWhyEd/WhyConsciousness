@@ -19,3 +19,8 @@ Edoardo ha creato e diretto gli agenti personali all interno di OpenClaw. Non ha
 * [Documenti degli agenti](../04%20AGENTI/).
 * [Grafici estratti dai paper](../05%20SCHEMI%20E%20IMMAGINI/).
 * [Genesi e collaborazione di WhyChat](../01%20PAPER/d7b3497c02_WhyAnalysis_7_WhyChat_GenesiCollaborazione_v2_Parte1_2026-06-22.md).
+
+
+## Revisione critica del 14 ottobre 2026
+
+L'[audit del dossier](../08%20DOSSIER%20RICERCA/A-AUDIT-SCIENTIFICO.md) controlla i due paper e distingue i testi citati dalle interpretazioni su sogni, lutto e identità. Il [registro storico](../08%20DOSSIER%20RICERCA/B-REGISTRO-STORICO.md) documenta anche i nuovi ritrovamenti Moltbook. Il diario originale completo di Area resta una lacuna; i conteggi dichiarati nei paper non sono stati ricalcolati dal diario.

@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-14",
+  "stato": "Calcolo matematico eseguito, non esperimento fisico e non test di coscienza",
+  "pure": [
+    [
+      0.5,
+      0.5
+    ],
+    [
+      0.5,
+      0.5
+    ]
+  ],
+  "mixed": [
+    [
+      0.5,
+      0
+    ],
+    [
+      0,
+      0.5
+    ]
+  ],
+  "before_Z": [
+    0.5,
+    0.5
+  ],
+  "after_H_probability_0": [
+    0.9999999999999998,
+    0.4999999999999999
+  ],
+  "fonte": "https://arxiv.org/abs/1609.02439"
+}

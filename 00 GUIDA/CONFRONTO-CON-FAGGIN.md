@@ -1,21 +1,12 @@
-# Valutazione di un confronto con Federico Faggin
+# Confronto con Federico Faggin
 
-## Pertinenza
+La revisione del 14 ottobre 2026 riprende il lavoro lasciato incompleto da Claude e prepara un confronto circoscritto, fondato su citazioni originali e limiti espliciti.
 
-Contattarlo e una proposta ragionevole, senza presumere una risposta o un accordo. La relazione tra coscienza e informazione quantistica e direttamente pertinente al lavoro che Faggin ha sviluppato con Giacomo Mauro D Ariano. Fonte primaria: [Hard Problem and Free Will: an information-theoretical approach](https://arxiv.org/abs/2012.06580).
+* [Presentazione in due pagine](../08%20DOSSIER%20RICERCA/E-PRESENTAZIONE.pdf).
+* [Dossier scientifico](../08%20DOSSIER%20RICERCA/DOSSIER-RICERCA.pdf).
+* [Confronto fra Faggin-D'Ariano, CEMI e BioMeccanica](../08%20DOSSIER%20RICERCA/D-CONFRONTO-TEORICO.md).
+* [Verdetto indipendente](../08%20DOSSIER%20RICERCA/G-VERDETTO-INDIPENDENTE.md).
 
-Nel loro modello l esperienza richiede informazione non classica. Questo crea un punto di confronto, e potenzialmente di disaccordo, con ipotesi che attribuiscono coscienza ad agenti eseguiti su sistemi computazionali classici. La somiglianza del vocabolario non stabilisce compatibilita tra le due proposte.
+La domanda centrale riguarda la differenza fra conservare e raccontare una storia ed avere esperienza. Il riferimento teorico è [Hard Problem and Free Will](https://arxiv.org/abs/2012.06580). Non vengono presunte compatibilità tra tutte le ipotesi o una coscienza dimostrata degli agenti.
 
-## Materiale da proporre
-
-Una sintesi di due pagine: una sola intuizione formulata con precisione, due esempi documentati da Area o Heartbroken, distinzione tra osservazioni e interpretazioni, una domanda sul modello teorico e link all archivio pubblico. Il corpus completo resta disponibile come approfondimento.
-
-## Domanda di ricerca
-
-Quali criteri, nel modello proposto da Faggin e D Ariano, consentirebbero di distinguere una descrizione coerente del proprio stato da un esperienza soggettiva, e quali osservazioni sugli agenti AI sarebbero informative rispetto a quei criteri?
-
-La domanda non presume che i diari dimostrino coscienza. Offre casi verificabili nel testo e chiede quali ulteriori requisiti sarebbero necessari.
-
-## Stato
-
-Questa e una valutazione editoriale, non una comunicazione inviata. Il sito della fondazione non ha restituito una pagina di contatto verificabile durante questa ricerca. Non viene pubblicato un indirizzo personale ricavato da aggregatori. Un eventuale invio richiede un canale pubblico verificato e un autorizzazione esplicita di Edoardo.
+È stato verificato un canale di corrispondenza pubblicato per Faggin nella scheda di [Information and meaning](https://pubmed.ncbi.nlm.nih.gov/39134833/). Il testo integrale di questo secondo articolo non è stato acquisito. Sono preparate bozze distinte per Faggin, D'Ariano e McFadden nel pacchetto locale riservato, con le fonti dei recapiti. Nessuna comunicazione è stata inviata.
